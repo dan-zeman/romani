@@ -102,7 +102,7 @@ taj	taj(a)+CConj
 
 hoď	hoď(že)+SConj
 
-géle	dža(jít)+V+3Pl+Prf
+géle	dža(jít)+V+3pl+Prf
 
 uppe	uppe(nahoru)+Adv
 uppe	uppe(nahoru)+Adp
@@ -170,7 +170,7 @@ le	ó(on/ona)+Pron+Acc+Sg+M
 
 ári	ári(ven)+Adv
 
-válostinďa	válostin(vybrat_si)+V+3Sg+Pfv
+válostinďa	válostin(vybrat_si)+V+3sg+Pfv
 
 mer	mer(protože)+SConj
 
@@ -186,7 +186,7 @@ háború	háború(válka)+NMb+Nom+Sg
 
 taj	taj(a)+CConj
 
-šajnálinďa	šajnálin(litovat)+V+3Sg+Pfv
+šajnálinďa	šajnálin(litovat)+V+3sg+Pfv
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
@@ -198,7 +198,7 @@ džuvli	džuvli(žena)+NFa+Nom+Sg
 
 hoď	hoď(že)+SConj
 
-akharďa	akhar(zavolat/pozvat)+V+3Sg+Pfv
+akharďa	akhar(zavolat/pozvat)+V+3sg+Pfv
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
@@ -210,7 +210,7 @@ hoď	hoď(že)+SConj
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
-legeďa	lege(vést)+V+3Sg+Pfv
+legeďa	lege(vést)+V+3sg+Pfv
 
 ki	ki(k/u)+Adp
 
@@ -220,7 +220,7 @@ taj	taj(a)+CConj
 
 hoď	hoď(že)+SConj
 
-thoďa	thov(položit)+V+3Sg+Pfv
+thoďa	thov(položit)+V+3sg+Pfv
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
@@ -229,7 +229,7 @@ uppe	uppe(nahoru)+Adp
 
 máža	máža(váha)+NFb+Nom+Sg
 
-mírinďa	mírin(vážit)+V+3Sg+Pfv
+mírinďa	mírin(vážit)+V+3sg+Pfv
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
@@ -247,7 +247,7 @@ kila	kila(kilo)+NFb+Nom+Sg
 
 ssa	ssa(být)+Cop+3Sg+Pst
 
-šun	šun(slyšet)+V+2Sg+Imp
+šun	šun(slyšet)+V+2sg+Imp
 
 le	ó(on/ona)+Pron+Acc+Sg+M
 
@@ -467,7 +467,7 @@ uppe	uppe(nahoru)+Adp
 
 phú	+?
 
-šun	šun(slyšet)+V+2Sg+Imp
+šun	šun(slyšet)+V+2sg+Imp
 
 akán	+?
 
@@ -545,7 +545,7 @@ ni	+?
 
 na	+?
 
-vaker	vaker(povídat)+V+2Sg+Imp
+vaker	vaker(povídat)+V+2sg+Imp
 
 sar	sar(jak(o))+Adv
 

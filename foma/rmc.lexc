@@ -73,10 +73,10 @@ LEXICON V
 
 +V+3sg+Impf:^lahi  #;
 +V+1pl+Impf:^asahi #;
-+V+3Pl+Prf:^le     #;
++V+3pl+Prf:^le     #;
 +V+3pl+Impf:^nahi  #;
-+V+3Sg+Pfv:^ďa     #;
-+V+2Sg+Imp:^λ      #;
++V+3sg+Pfv:^ďa     #;
++V+2sg+Imp:^λ      #;
 
 LEXICON Adjective
 
