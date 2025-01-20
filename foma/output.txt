@@ -1,0 +1,694 @@
+taj	taj(a)+CConj
+
+odá	odá(ten/to)+Dem
+
+vakerlahi	vaker(povídat)+V+3sg+Impf
+
+taj	taj(a)+CConj
+
+pal	pal(o)+Adp
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+Ňufo	Ňufo+PropNa+Nom+Sg
+
+vakerasahi	vaker(povídat)+V+1pl+Impf
+
+taj	taj(a)+CConj
+
+kana	kana(když)+SConj
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+Orosko	Orosko(Rusko)+PropNa+Nom+Sg
+
+ssáhi	ssa(být)+Cop+3Sg+Pst
+
+ssáhi	ssa(být)+Cop+3Sg+Pst
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+bari	baro(velký)+Adj+Nom+Sg+F
+
+assi	asso(takový)+Adj+Nom+Sg+F
+
+assi	asso(takový)+Adj+Nom+Sg+F
+
+džuvli	džuvli(žena)+NFa+Nom+Sg
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+ssáhi	ssa(být)+Cop+3Sg+Pst
+
+piráni	piráni(milenka)+NFa+Nom+Sg
+
+ssáhi	ssa(být)+Cop+3Sg+Pst
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+piráni	piráni(milenka)+NFa+Nom+Sg
+
+džuvli	džuvli(žena)+NFa+Nom+Sg
+
+asse	asso(takový)+Adj+Nom+Pl
+
+tisti	+?
+
+tist	+?
+
+pal	pal(o)+Adp
+
+ole	o+Det+Obl+Sg+M
+
+Ďusiskero	Ďusi+PropNb+Obl+Gen+Nom+Sg+M
+
+dad	dad(otec)+NMb+Nom+Sg
+
+tistkiňa	tistkiňa(důstojnice)+NFb+Nom+Sg
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+rangi	+?
+
+la	ó(on/ona)+Pron+Acc+Sg+F
+
+ssáhi	ssa(být)+Cop+3Sg+Pst
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+Orosko	Orosko(Rusko)+PropNa+Nom+Sg
+
+baro	baro(velký)+Adj+Nom+Sg+M
+
+šil	šil(chlad)+NMb+Nom+Sg
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+faďo	faďo(mráz)+NMa+Nom+Sg
+
+odá	odá(ten/to)+Dem
+
+t’amenge	+?
+
+vakerlahi	vaker(povídat)+V+3sg+Impf
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+phuro	phuro(starý)+Adj+Nom+Sg+M
+
+rom	rom(rom/muž)+NMb+Nom+Sg
+
+taj	taj(a)+CConj
+
+hoď	hoď(že)+SConj
+
+géle	dža(jít)+V+3Pl+Prf
+
+uppe	uppe(nahoru)+Adv
+uppe	uppe(nahoru)+Adp
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+odoj	odoj(tam)+Pron+Dist
+
+ánde	ánde(dovnitř)+Adv
+
+sine	ssa(být)+Cop+3Pl+Pst
+
+ulade	ulado(rozdělený)+Adj+Nom+Pl
+
+má	má(už)+Adv
+
+terďonahi	terď(stát)+V+3pl+Impf
+
+taj	taj(a)+CConj
+
+ój	ó(on/ona)+Pron+Nom+Sg
+
+asso	asso(takový)+Adj+Nom+Sg+M
+
+tikno	tikno(malý)+Adj+Nom+Sg+M
+
+rom	rom(rom/muž)+NMb+Nom+Sg
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+sar	sar(jak(o))+Adv
+
+mro	mr(můj)+Pron+Nom+Sg+M
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+Ďusi	Ďusi+PropNb+Nom+Sg+M
+
+taj	taj(a)+CConj
+
+hoď	hoď(že)+SConj
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+baro	baro(velký)+Adj+Nom+Sg+M
+
+kabáto	kabáto(kabát)+NMa+Nom+Sg
+
+uppe	uppe(nahoru)+Adv
+uppe	uppe(nahoru)+Adp
+
+leste	ó(on/ona)+Pron+Loc+Sg+M
+
+taj	taj(a)+CConj
+
+faďinlahi	faďin(mrznout)+V+3sg+Impf
+
+taj	taj(a)+CConj
+
+odí	odí(ta)+Dem
+
+džuvli	džuvli(žena)+NFa+Nom+Sg
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+ári	ári(ven)+Adv
+
+válostinďa	si)+V+3Sg+Pfv
+
+mer	mer(protože)+SConj
+
+igen	igen(velmi)+Adv
+
+čišlo	čišlo(hubený)+Adj+Nom+Sg+M
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+háború	háború(válka)+NMb+Nom+Sg
+
+taj	taj(a)+CConj
+
+šajnálinďa	šajnálin(litovat)+V+3Sg+Pfv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+taj	taj(a)+CConj
+
+i	+Adp
+i	i+Det+Nom+Sg+F
+
+džuvli	džuvli(žena)+NFa+Nom+Sg
+
+hoď	hoď(že)+SConj
+
+akharďa	akhar(zavolat/pozvat)+V+3Sg+Pfv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+taj	taj(a)+CConj
+
+hoď	hoď(že)+SConj
+
+ánde	ánde(dovnitř)+Adv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+legeďa	lege(vést)+V+3Sg+Pfv
+
+ki	ki(k/u)+Adp
+
+peste	p(sám)+Pron+Obl+Loc+Sg
+
+taj	taj(a)+CConj
+
+hoď	hoď(že)+SConj
+
+thoďa	thov(položit)+V+3Sg+Pfv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+uppe	uppe(nahoru)+Adv
+uppe	uppe(nahoru)+Adp
+
+máža	máža(váha)+NFb+Nom+Sg
+
+mírinďa	mírin(vážit)+V+3Sg+Pfv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+taj	taj(a)+CConj
+
+hoď	hoď(že)+SConj
+
+valami	+?
+
+n	+?
+
+harminc	harminc(třicet)+Num
+
+kila	kila(kilo)+NFb+Nom+Sg
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+šun	šun(slyšet)+V+2Sg+Imp
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+akán	+?
+
+majd	+?
+
+i	+Adp
+i	i+Det+Nom+Sg+F
+
+kova	+?
+
+i	+Adp
+i	i+Det+Nom+Sg+F
+
+tistiki	+?
+
+džuvli	džuvli(žena)+NFa+Nom+Sg
+
+phanla	+?
+
+akkor	+?
+
+addíg	+?
+
+adaj	+?
+
+oveha	+?
+
+még	+?
+
+na	+?
+
+hízineha	+?
+
+ári	ári(ven)+Adv
+
+hoď	hoď(že)+SConj
+
+n'oveha	+?
+
+ötven	+?
+
+kila	kila(kilo)+NFb+Nom+Sg
+
+paleg	+?
+
+šaj	+?
+
+manca	+?
+
+paššos	+?
+
+téle	+?
+
+asso	asso(takový)+Adj+Nom+Sg+M
+
+vakerlahi	vaker(povídat)+V+3sg+Impf
+
+akán	+?
+
+má	má(už)+Adv
+
+hoď	hoď(že)+SConj
+
+hoď	hoď(že)+SConj
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+vodro	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+paššarlahi	+?
+
+taj	taj(a)+CConj
+
+furt	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+delahi	+?
+
+te	te(taky)+Part
+
+han	+?
+
+finomšági	+?
+
+taj	taj(a)+CConj
+
+furt	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+mírinlahi	mírin(vážit)+V+3sg+Impf
+
+saki	+?
+
+masek	+?
+
+uppe	uppe(nahoru)+Adv
+uppe	uppe(nahoru)+Adp
+
+máža	máža(váha)+NFb+Nom+Sg
+
+hoď	hoď(že)+SConj
+
+taj	taj(a)+CConj
+
+má	má(už)+Adv
+
+čak	+?
+
+pándž	+?
+
+kili	+?
+
+leske	+?
+
+ándar	+?
+
+hijázinlahi	+?
+
+no	+?
+
+akán	+?
+
+so	+?
+
+kerá	+?
+
+phanla	+?
+
+me	+?
+
+adala	+?
+
+thula	+?
+
+džuvjaha	+?
+
+Phenel	+?
+
+má	má(už)+Adv
+
+čak	+?
+
+pándž	+?
+
+kili	+?
+
+majd	+?
+
+site	+?
+
+man	+?
+
+čhivav	+?
+
+má	má(už)+Adv
+
+site	+?
+
+hoď	hoď(že)+SConj
+
+akkor	+?
+
+pont	+?
+
+má	má(už)+Adv
+
+čhiťa	+?
+
+džanes	+?
+
+kija	+?
+
+ko	+?
+
+Poláki	+?
+
+and'odona	+?
+
+š	+?
+
+and'odá	+?
+
+šoro	+?
+
+géja	+?
+
+káj	+?
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+Poláki	+?
+
+važdár	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+na	+?
+
+dine	+?
+
+lóve	+?
+
+važdár	+?
+
+mer	mer(protože)+SConj
+
+garuvkerlahi	+?
+
+pe	+?
+
+uppe	uppe(nahoru)+Adv
+uppe	uppe(nahoru)+Adp
+
+phú	+?
+
+šun	šun(slyšet)+V+2Sg+Imp
+
+akán	+?
+
+má	má(už)+Adv
+
+i	+Adp
+i	i+Det+Nom+Sg+F
+
+gádži	+?
+
+rodkerel	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+n'alakhel	+?
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+taj	taj(a)+CConj
+
+talákozinďa	+?
+
+akkor	+?
+
+ole	o+Det+Obl+Sg+M
+
+kovaha	+?
+
+ole	o+Det+Obl+Sg+M
+
+adale	+?
+
+sar	sar(jak(o))+Adv
+
+le	ó(on/ona)+Pron+Acc+Sg+M
+
+akharen	+?
+
+má	má(už)+Adv
+
+ola	+?
+
+ola	+?
+
+Puttonkakere	+?
+
+romeha	+?
+
+no	+?
+
+akkor	+?
+
+Ďula	+?
+
+káj	+?
+
+ssalahi	+?
+
+kija	+?
+
+tut	+?
+
+čhiťal	+?
+
+hát	+?
+
+i	+Adp
+i	i+Det+Nom+Sg+F
+
+gádži	+?
+
+man	+?
+
+more	+?
+
+ni	+?
+
+na	+?
+
+vaker	vaker(povídat)+V+2Sg+Imp
+
+sar	sar(jak(o))+Adv
+
+phírďom	+?
+
+site	+?
+
+man	+?
+
+latar	+?
+
+čhiťom	+?
+
+ola	+?
+
+gaddžatar	+?
+
+Phanla	+?
+
+ári	ári(ven)+Adv
+
+man	+?
+
+hizlalinel	+?
+
+his	+?
+
+ári	ári(ven)+Adv
+
+ssal	+?
+
+hízime	+?
+
+Ďula	+?
+
+hoď	hoď(že)+SConj
+
+dži	+?
+
+ko	+?
+
+etven	+?
+
+kila	kila(kilo)+NFb+Nom+Sg
+
+man	+?
+
+kamja	+?
+
+te	te(taky)+Part
+
+hizlalinen	+?
+
+taj	taj(a)+CConj
+
+nek	+?
+
+džav	+?
+
+laha	+?
+
+ando	andi(v/do)+Adp+Det+Nom+Sg+M
+
+vodro	+?
+
+taj	taj(a)+CConj
+
+me	+?
+
+még	+?
+
+čhiťom	+?
+
+man	+?
+
+sar	sar(jak(o))+Adv
+
+andi	andi(v/do)+Adp
+
+paramisi	+?
+
+ola	+?
+
+Piroška	+?
+
+ój	ó(on/ona)+Pron+Nom+Sg
+
+mindig	+?
+
+o	+Adp+Det+Nom+Sg+M
+o	o+Det+Nom+Sg+M
+
+kok	+?
+
+assi	asso(takový)+Adj+Nom+Sg+F
+
+kamlahi	+?
+
+sa	+?
+
+helešno	+?
+
+rom	rom(rom/muž)+NMb+Nom+Sg
+
+ssa	ssa(být)+Cop+3Sg+Pst
+
+jáj	+?
+
+dévla	+?
+
+no	+?
+
+pal	pal(o)+Adp
+
+odá	odá(ten/to)+Dem
+
+vakerasahi	vaker(povídat)+V+1pl+Impf
+
+taj	taj(a)+CConj
+
+me	+?
+
+man	+?
+
+avka	+?
+
+odoj	odoj(tam)+Pron+Dist
+
+ári	ári(ven)+Adv
+
+asav	+?
+
+adale	+?
+
+Rokkantoha	+?
+

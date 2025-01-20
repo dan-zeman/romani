@@ -1,0 +1,186 @@
+Multichar_Symbols +NMa +NMb +NFa +NFb +V +Adj +Pron +PropNa +PropNb +Part +Adp +CConj +SConj +Det +Dem +Cop +Adv +Num +Sg +Pl +M +F +Nom +Gen +Dat +Acc +Voc +Loc +Ins +Obl +Dist +1sg +2sg +3sg +1pl +2pl +3pl +Impf +Pst +Pfv +Imp
+
+LEXICON Root
+
+Noun;
+Verb;
+Adjective;
+Pron;
+ProperN;
+Part;
+Adp;
+IncorpArt;
+CConj;
+SConj;
+Determinant;
+Cop;
+Adv;
+Num;
+
+LEXICON Noun
+
+čhavo(chlapec):čhav NMa;
+džuvli(žena):džuvl NFa;
+piráni(milenka):pirán NFa;
+tistkiňa(důstojnice):tistkiň NFb;
+dad(otec):dad NMb;
+šil(chlad):šil NMb;
+faďo(mráz):faď NMa;
+rom(rom/muž):rom NMb;
+tisto(důstojník):tist NMa;
+kabáto(kabát):kabát NMa;
+háború(válka):háború NMb;
+máža(váha):máž NFb;
+kila(kilo):kil NFb;
+
+LEXICON NMa
+
++NMa+Nom+Sg:^o   #;
++NMa+Acc+Sg:^es  #;
++NMa+Voc+Sg:^eja #;
++NMa+Nom+Pl:^e   #;
++NMa+Acc+Pl:^en  #;
++NMa+Voc+Pl:^ale #;
+
+LEXICON NMb
+
++NMb+Nom+Sg:^λ #;
+
+LEXICON NFa
+
++NFa+Nom+Sg:^i #;
+
+LEXICON NFb
+
++NFb+Nom+Sg:^a #;
+
+LEXICON Verb
+
+vaker(povídat):vaker V;
+dža(jít):gé V;
+ulav(rozdělit):ulav V;
+terď(stát):terďo V;
+faďin(mrznout):faďin V;
+válostin(vybrat si):válostin V;
+šajnálin(litovat):šajnálin V;
+akhar(zavolat/pozvat):akhar V;
+lege(vést):lege V;
+thov(položit):tho V;
+mírin(vážit):mírin V;
+šun(slyšet):šun V;
+dikh(vidět):dikh V;
+
+LEXICON V
+
++V+3sg+Impf:^lahi  #;
++V+1pl+Impf:^asahi #;
++V+3Pl+Prf:^le     #;
++V+3pl+Impf:^nahi  #;
++V+3Sg+Pfv:^ďa     #;
++V+2Sg+Imp:^λ      #;
+
+LEXICON Adjective
+
+baro(velký):bar Adj;
+asso(takový):ass Adj;
+phuro(starý):phur Adj;
+ulado(rozdělený):ulad Adj;
+tikno(malý):tikn Adj;
+čišlo(hubený):čišl Adj;
+
+LEXICON Adj
+
++Adj+Nom+Sg+M:^o #;
++Adj+Nom+Sg+F:^i #;
++Adj+Nom+Pl:^e   #;
+
+LEXICON Pron
+
+ó(on/ona)+Pron+Nom+Sg:ój      #;
+ó(on/ona)+Pron+Nom+Pl:ón      #;
+ó(on/ona)+Pron+Acc+Sg+M:le    #;
+ó(on/ona)+Pron+Acc+Sg+F:la    #;
+ó(on/ona)+Pron+Acc+Pl:len     #;
+amen(my)+Pron+Dat+Pl:amenge   #;
+odoj(tam)+Pron+Dist:odoj      #;
+mr(můj)+Pron+Nom+Sg+M:mro     #;
+ó(on/ona)+Pron+Loc+Sg+M:leste #;
+ó(on/ona)+Pron+Loc+Sg+F:late  #;
+p(sám)+Pron+Obl+Loc+Sg:peste  #;
+
+LEXICON ProperN
+
+Ňufo:Ňuf PropNa;
+Orosko(Rusko):Orosk PropNa;
+Ďusi:Ďusi PropNb;
+
+LEXICON PropNa
+
++PropNa+Nom+Sg:^o   #;
++PropNa+Acc+Sg:^es  #;
++PropNa+Voc+Sg:^eja #;
++PropNa+Nom+Pl:^e   #;
++PropNa+Acc+Pl:^en  #;
++PropNa+Voc+Pl:^ale #;
+
+LEXICON PropNb
+
++PropNb+Nom+Sg+M:^λ             #;
++PropNb+Obl+Gen+Nom+Sg+M:^skero #;
+
+LEXICON Part
+
+te(taky)+Part:te #;
+
+LEXICON Adp
+
+pal(o)+Adp:pal #;
+uppe(nahoru)+Adp:uppe #;
+andi(v/do):and IncorpArt;
+ki(k/u)+Adp:ki #;
+
+LEXICON IncorpArt
+
++Adp:^i #;
++Adp+Det+Nom+Sg+M:^o #;
+
+LEXICON CConj
+
+taj(a)+CConj:taj #;
+
+LEXICON SConj
+
+kana(když)+SConj:kana  #;
+hoď(že)+SConj:hoď      #;
+mer(protože)+SConj:mer #;
+
+LEXICON Determinant
+
+odá(ten/to)+Dem:odá  #;
+odí(ta)+Dem:odí      #;
+o:o Det;
+i+Det+Nom+Sg+F:i #;
+
+LEXICON Det
+
++Det+Nom+Sg+M:^λ  #;
++Det+Obl+Sg+M:^le #;
+
+LEXICON Cop
+
+ssa(být)+Cop+3Sg+Pst:ssáhi #;
+ssa(být)+Cop+3Sg+Pst:ssa   #;
+ssa(být)+Cop+3Pl+Pst:sine  #;
+
+LEXICON Adv
+
+uppe(nahoru)+Adv:uppe  #;
+ánde(dovnitř)+Adv:ánde #;
+má(už)+Adv:má          #;
+sar(jak(o))+Adv:sar    #;
+ári(ven)+Adv:ári       #;
+igen(velmi)+Adv:igen   #;
+
+LEXICON Num
+
+harminc(třicet)+Num:harminc #;
