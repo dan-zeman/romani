@@ -167,9 +167,9 @@ LEXICON Det
 
 LEXICON Cop
 
-ssa(být)+Cop+3Sg+Pst:ssáhi #;
-ssa(být)+Cop+3Sg+Pst:ssa   #;
-ssa(být)+Cop+3Pl+Pst:sine  #;
+ssa(být)+Cop+3sg+Pst:ssáhi #;
+ssa(být)+Cop+3sg+Pst:ssa   #;
+ssa(být)+Cop+3pl+Pst:sine  #;
 
 LEXICON Adv
 
