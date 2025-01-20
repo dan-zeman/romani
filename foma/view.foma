@@ -1,0 +1,3 @@
+source rmc.foma
+print dot > rmc.dot
+exit

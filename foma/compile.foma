@@ -1,0 +1,3 @@
+source rmc.foma
+save stack rmc.bin
+exit
