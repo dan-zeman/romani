@@ -170,7 +170,7 @@ le	ó(on/ona)+Pron+Acc+Sg+M
 
 ári	ári(ven)+Adv
 
-válostinďa	si)+V+3Sg+Pfv
+válostinďa	válostin(vybrat_si)+V+3Sg+Pfv
 
 mer	mer(protože)+SConj
 

@@ -6,3 +6,6 @@ define Surface "^" -> 0, λ -> 0;
 read lexc rmc.lexc
 define Lexicon;
 regex Lexicon .o. Surface;
+
+save stack rmc.bin
+exit
