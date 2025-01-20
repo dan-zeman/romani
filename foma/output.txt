@@ -8,7 +8,6 @@ taj	taj(a)+CConj
 
 pal	pal(o)+Adp
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 Ňufo	Ňufo+PropNa+Nom+Sg
@@ -93,7 +92,6 @@ t’amenge	+?
 
 vakerlahi	vaker(povídat)+V+3sg+Impf
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 phuro	phuro(starý)+Adj+Nom+Sg+M
@@ -139,7 +137,6 @@ sar	sar(jak(o))+Adv
 
 mro	mr(můj)+Pron+Nom+Sg+M
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 Ďusi	Ďusi+PropNb+Nom+Sg+M
@@ -148,7 +145,6 @@ taj	taj(a)+CConj
 
 hoď	hoď(že)+SConj
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 baro	baro(velký)+Adj+Nom+Sg+M
@@ -196,7 +192,6 @@ le	ó(on/ona)+Pron+Acc+Sg+M
 
 taj	taj(a)+CConj
 
-i	+Adp
 i	i+Det+Nom+Sg+F
 
 džuvli	džuvli(žena)+NFa+Nom+Sg
@@ -260,12 +255,10 @@ akán	+?
 
 majd	+?
 
-i	+Adp
 i	i+Det+Nom+Sg+F
 
 kova	+?
 
-i	+Adp
 i	i+Det+Nom+Sg+F
 
 tistiki	+?
@@ -447,7 +440,6 @@ géja	+?
 
 káj	+?
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 Poláki	+?
@@ -481,7 +473,6 @@ akán	+?
 
 má	má(už)+Adv
 
-i	+Adp
 i	i+Det+Nom+Sg+F
 
 gádži	+?
@@ -542,7 +533,6 @@ tut	+?
 
 hát	+?
 
-i	+Adp
 i	i+Det+Nom+Sg+F
 
 gádži	+?
@@ -645,7 +635,6 @@ Piroška	+?
 
 mindig	+?
 
-o	+Adp+Det+Nom+Sg+M
 o	o+Det+Nom+Sg+M
 
 kok	+?
