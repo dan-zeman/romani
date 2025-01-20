@@ -1,7 +1,7 @@
 # Romani-specific phonological rules go here...
 
 # Any lowercase letter can be optionally capitalized on surface (sentence start, emphasis).
-define Capitalization á (->) Á, a (->) A, b (->) B, c (->) C, č (->) Č, d (->) D, ď (->) Ď, e (->) E, é (->) É, f (->) F, g (->) G, h (->) H, i (->) I, í (->) Í, j (->) J, k (->) K, l (->) L, ľ (->) Ľ, m (->) M, n (->) N, ň (->) Ň, o (->) O, ó (->) Ó, p (->) P, q (->) Q, r (->) R, s (->) S, š (->) Š, t (->) T, ť (->) Ť, u (->) U, ú (->) Ú, v (->) V, w (->) W, x (->) X, y (->) Y, z (->) Z, ž (->) Ž;
+define Capitalization á (->) Á, a (->) A, b (->) B, c (->) C, č (->) Č, d (->) D, ď (->) Ď, e (->) E, é (->) É, f (->) F, g (->) G, h (->) H, i (->) I, í (->) Í, j (->) J, k (->) K, l (->) L, ľ (->) Ľ, m (->) M, n (->) N, ň (->) Ň, o (->) O, ó (->) Ó, ö (->) Ö, p (->) P, q (->) Q, r (->) R, s (->) S, š (->) Š, t (->) T, ť (->) Ť, u (->) U, ú (->) Ú, v (->) V, w (->) W, x (->) X, y (->) Y, z (->) Z, ž (->) Ž;
 
 # Finally erase temporary symbols.
 define Surface "^" -> 0, λ -> 0;

@@ -21,13 +21,6 @@ while(<>)
         # Uvnitř analýzy je nejdřív lemma (nebo kmen, volitelně s překladem v závorce), pak plusem oddělené jednotlivé morfologické rysy.
         my @parts = split(/\+/, $ma);
         my $lemmapart = shift(@parts);
-        my $lemma = $lemmapart;
-        my $misc = '_';
-        if($lemmapart =~ m/^(.+)\((.+)\)$/)
-        {
-            $lemma = $1;
-            $misc = "Gloss=$2";
-        }
         my $upos = 'X';
         my %feats;
         foreach my $part (@parts)
@@ -188,6 +181,10 @@ while(<>)
             {
                 set_feature(\%feats, 'Tense', 'Past');
             }
+            elsif($part eq 'Punct')
+            {
+                $upos = 'PUNCT';
+            }
             elsif($part eq 'SConj')
             {
                 $upos = 'SCONJ';
@@ -213,6 +210,17 @@ while(<>)
         }
         my @feats = sort {lc($a) cmp lc($b)} (keys(%feats));
         my $feats = scalar(@feats) > 0 ? join('|', map {"$_=$feats{$_}"} (@feats)) : '_';
+        my $lemma = $lemmapart;
+        my $misc = '_';
+        if($lemmapart =~ m/^(.+)\((.+)\)$/)
+        {
+            $lemma = $1;
+            $misc = "Gloss=$2";
+        }
+        elsif($upos =~ m/^(PROPN|PUNCT)$/)
+        {
+            $misc = "Gloss=$lemma";
+        }
         $_ .= "\t$lemma\t$upos\t$feats\t$misc";
     }
     print("$_\n");

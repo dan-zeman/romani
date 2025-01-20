@@ -1,20 +1,28 @@
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 odá	odá(ten/to)+Dem	odá	DET	PronType=Dem	Gloss=ten/to
 
 vakerlahi	vaker(povídat)+V+3sg+Impf	vaker	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=povídat
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 pal	pal(o)+Adp	pal	ADP	_	Gloss=o
 
 o	o+Det+Nom+Sg+M	o	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_
 
-Ňufo	Ňufo+PropNa+Nom+Sg	Ňufo	PROPN	Case=Nom|Number=Sing	_
+Ňufo	Ňufo+PropNa+Nom+Sg	Ňufo	PROPN	Case=Nom|Number=Sing	Gloss=Ňufo
 
 vakerasahi	vaker(povídat)+V+1pl+Impf	vaker	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	Gloss=povídat
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 kana	kana(když)+SConj	kana	SCONJ	_	Gloss=když
 
@@ -24,13 +32,21 @@ Orosko	Orosko(Rusko)+PropNa+Nom+Sg	Orosko	PROPN	Case=Nom|Number=Sing	Gloss=Rusko
 
 ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
-ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
 bari	baro(velký)+Adj+Nom+Sg+F	baro	ADJ	Case=Nom|Gender=Fem|Number=Sing	Gloss=velký
 
+…	…+Punct	…	PUNCT	_	Gloss=…
+
 assi	asso(takový)+Adj+Nom+Sg+F	asso	ADJ	Case=Nom|Gender=Fem|Number=Sing	Gloss=takový
+
+…	…+Punct	…	PUNCT	_	Gloss=…
 
 assi	asso(takový)+Adj+Nom+Sg+F	asso	ADJ	Case=Nom|Gender=Fem|Number=Sing	Gloss=takový
 
@@ -40,33 +56,51 @@ le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Pr
 
 ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 piráni	piráni(milenka)+NFa+Nom+Sg	piráni	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=milenka
 
-ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
 piráni	piráni(milenka)+NFa+Nom+Sg	piráni	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=milenka
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 džuvli	džuvli(žena)+NFa+Nom+Sg	džuvli	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=žena
 
-asse	asso(takový)+Adj+Nom+Pl	asso	ADJ	Case=Nom|Number=Plur	Gloss=takový
+.	.+Punct	.	PUNCT	_	Gloss=.
 
-tisti	+?		X	_	_
+	+?		X	_	_
 
-tist	+?		X	_	_
+Asse	asso(takový)+Adj+Nom+Pl	asso	ADJ	Case=Nom|Number=Plur	Gloss=takový
+
+tisti…	+?		X	_	_
+
+tist…	+?		X	_	_
+
+–	+?		X	_	_
 
 pal	pal(o)+Adp	pal	ADP	_	Gloss=o
 
 ole	o+Det+Obl+Sg+M	o	DET	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	_
 
-Ďusiskero	Ďusi+PropNb+Obl+Gen+Nom+Sg+M	Ďusi	PROPN	Case=Nom|Gender=Masc|Number=Sing	_
+Ďusiskero	Ďusi+PropNb+Obl+Gen+Nom+Sg+M	Ďusi	PROPN	Case=Nom|Gender=Masc|Number=Sing	Gloss=Ďusi
 
 dad	dad(otec)+NMb+Nom+Sg	dad	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=otec
+
+–	+?		X	_	_
 
 tistkiňa	tistkiňa(důstojnice)+NFb+Nom+Sg	tistkiňa	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=důstojnice
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 rangi	+?		X	_	_
 
@@ -74,19 +108,31 @@ la	ó(on/ona)+Pron+Acc+Sg+F	ó	PRON	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs
 
 ssáhi	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 ando	andi(v/do)+Adp+Det+Nom+Sg+M	andi	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	Gloss=v/do
 
 Orosko	Orosko(Rusko)+PropNa+Nom+Sg	Orosko	PROPN	Case=Nom|Number=Sing	Gloss=Rusko
 
-baro	baro(velký)+Adj+Nom+Sg+M	baro	ADJ	Case=Nom|Gender=Masc|Number=Sing	Gloss=velký
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Baro	baro(velký)+Adj+Nom+Sg+M	baro	ADJ	Case=Nom|Gender=Masc|Number=Sing	Gloss=velký
 
 šil	šil(chlad)+NMb+Nom+Sg	šil	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=chlad
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 faďo	faďo(mráz)+NMa+Nom+Sg	faďo	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=mráz
 
-odá	odá(ten/to)+Dem	odá	DET	PronType=Dem	Gloss=ten/to
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Odá	odá(ten/to)+Dem	odá	DET	PronType=Dem	Gloss=ten/to
 
 t’amenge	+?		X	_	_
 
@@ -98,7 +144,11 @@ phuro	phuro(starý)+Adj+Nom+Sg+M	phuro	ADJ	Case=Nom|Gender=Masc|Number=Sing	Glos
 
 rom	rom(rom/muž)+NMb+Nom+Sg	rom	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=rom/muž
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -109,6 +159,8 @@ uppe	uppe(nahoru)+Adp	uppe	ADP	_	Gloss=nahoru
 
 ando	andi(v/do)+Adp+Det+Nom+Sg+M	andi	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	Gloss=v/do
 
+…	…+Punct	…	PUNCT	_	Gloss=…
+
 odoj	odoj(tam)+Pron+Dist	odoj	PRON	Deixis=Remt|PronType=Prs	Gloss=tam
 
 ánde	ánde(dovnitř)+Adv	ánde	ADV	_	Gloss=dovnitř
@@ -117,11 +169,17 @@ sine	ssa(být)+Cop+3pl+Pst	ssa	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Past|Verb
 
 ulade	ulado(rozdělený)+Adj+Nom+Pl	ulado	ADJ	Case=Nom|Number=Plur	Gloss=rozdělený
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 má	má(už)+Adv	má	ADV	_	Gloss=už
 
 terďonahi	terď(stát)+V+3pl+Impf	terď	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	Gloss=stát
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 ój	ó(on/ona)+Pron+Nom+Sg	ó	PRON	Case=Nom|Number=Sing|PronType=Prs	Gloss=on/ona
 
@@ -133,15 +191,23 @@ rom	rom(rom/muž)+NMb+Nom+Sg	rom	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=rom
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 sar	sar(jak(o))+Adv	sar(jak	ADV	_	Gloss=o)
 
 mro	mr(můj)+Pron+Nom+Sg+M	mr	PRON	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	Gloss=můj
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 o	o+Det+Nom+Sg+M	o	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_
 
-Ďusi	Ďusi+PropNb+Nom+Sg+M	Ďusi	PROPN	Case=Nom|Gender=Masc|Number=Sing	_
+Ďusi	Ďusi+PropNb+Nom+Sg+M	Ďusi	PROPN	Case=Nom|Gender=Masc|Number=Sing	Gloss=Ďusi
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -160,7 +226,11 @@ taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 faďinlahi	faďin(mrznout)+V+3sg+Impf	faďin	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=mrznout
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 odí	odí(ta)+Dem	odí	DET	PronType=Dem	Gloss=ta
 
@@ -172,7 +242,11 @@ le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Pr
 
 válostinďa	válostin(vybrat_si)+V+3sg+Pfv	válostin	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=vybrat_si
 
-mer	mer(protože)+SConj	mer	SCONJ	_	Gloss=protože
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Mer	mer(protože)+SConj	mer	SCONJ	_	Gloss=protože
 
 igen	igen(velmi)+Adv	igen	ADV	_	Gloss=velmi
 
@@ -180,9 +254,13 @@ igen	igen(velmi)+Adv	igen	ADV	_	Gloss=velmi
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 ando	andi(v/do)+Adp+Det+Nom+Sg+M	andi	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	Gloss=v/do
 
 háború	háború(válka)+NMb+Nom+Sg	háború	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=válka
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
@@ -202,7 +280,11 @@ akharďa	akhar(zavolat/pozvat)+V+3sg+Pfv	akhar	VERB	Aspect=Perf|Mood=Ind|Number=
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -216,7 +298,11 @@ ki	ki(k/u)+Adp	ki	ADP	_	Gloss=k/u
 
 peste	p(sám)+Pron+Obl+Loc+Sg	p	PRON	Case=Obl|Number=Sing|PronType=Prs	Gloss=sám
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -229,6 +315,8 @@ uppe	uppe(nahoru)+Adp	uppe	ADP	_	Gloss=nahoru
 
 máža	máža(váha)+NFb+Nom+Sg	máža	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=váha
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 mírinďa	mírin(vážit)+V+3sg+Pfv	mírin	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=vážit
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
@@ -239,7 +327,7 @@ hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
 valami	+?		X	_	_
 
-n	+?		X	_	_
+n…	+?		X	_	_
 
 harminc	harminc(třicet)+Num	harminc	NUM	_	Gloss=třicet
 
@@ -247,17 +335,31 @@ kila	kila(kilo)+NFb+Nom+Sg	kila	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=kilo
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
-šun	šun(slyšet)+V+2sg+Imp	šun	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	Gloss=slyšet
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Šun	šun(slyšet)+V+2sg+Imp	šun	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	Gloss=slyšet
+
+,	,+Punct	,	PUNCT	_	Gloss=,
+
+[…]	+?		X	_	_
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
-akán	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Akán	+?		X	_	_
 
 majd	+?		X	_	_
 
 i	i+Det+Nom+Sg+F	i	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_
 
 kova	+?		X	_	_
+
+…	…+Punct	…	PUNCT	_	Gloss=…
 
 i	i+Det+Nom+Sg+F	i	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_
 
@@ -267,13 +369,19 @@ džuvli	džuvli(žena)+NFa+Nom+Sg	džuvli	NOUN	Case=Nom|Gender=Fem|Number=Sing	G
 
 phanla	+?		X	_	_
 
-akkor	+?		X	_	_
+:	:+Punct	:	PUNCT	_	Gloss=:
+
+„	+?		X	_	_
+
+Akkor	+?		X	_	_
 
 addíg	+?		X	_	_
 
 adaj	+?		X	_	_
 
 oveha	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 még	+?		X	_	_
 
@@ -283,6 +391,8 @@ hízineha	+?		X	_	_
 
 ári	ári(ven)+Adv	ári	ADV	_	Gloss=ven
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
 n'oveha	+?		X	_	_
@@ -290,6 +400,8 @@ n'oveha	+?		X	_	_
 ötven	+?		X	_	_
 
 kila	kila(kilo)+NFb+Nom+Sg	kila	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=kilo
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 paleg	+?		X	_	_
 
@@ -301,15 +413,27 @@ paššos	+?		X	_	_
 
 téle	+?		X	_	_
 
-asso	asso(takový)+Adj+Nom+Sg+M	asso	ADJ	Case=Nom|Gender=Masc|Number=Sing	Gloss=takový
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+“	+?		X	_	_
+
+	+?		X	_	_
+
+Asso	asso(takový)+Adj+Nom+Sg+M	asso	ADJ	Case=Nom|Gender=Masc|Number=Sing	Gloss=takový
 
 vakerlahi	vaker(povídat)+V+3sg+Impf	vaker	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=povídat
 
-akán	+?		X	_	_
+!	+?		X	_	_
+
+	+?		X	_	_
+
+Akán	+?		X	_	_
 
 má	má(už)+Adv	má	ADV	_	Gloss=už
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
+
+…	…+Punct	…	PUNCT	_	Gloss=…
 
 hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -333,9 +457,15 @@ te	te(taky)+Part	te	PART	_	Gloss=taky
 
 han	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 finomšági	+?		X	_	_
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 furt	+?		X	_	_
 
@@ -352,7 +482,11 @@ uppe	uppe(nahoru)+Adp	uppe	ADP	_	Gloss=nahoru
 
 máža	máža(váha)+NFb+Nom+Sg	máža	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=váha
 
-hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
 taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
@@ -370,7 +504,13 @@ leske	+?		X	_	_
 
 hijázinlahi	+?		X	_	_
 
-no	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+„	+?		X	_	_
+
+No	+?		X	_	_
 
 akán	+?		X	_	_
 
@@ -378,7 +518,15 @@ so	+?		X	_	_
 
 kerá	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
+“	+?		X	_	_
+
 phanla	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
+
+„	+?		X	_	_
 
 me	+?		X	_	_
 
@@ -388,15 +536,27 @@ thula	+?		X	_	_
 
 džuvjaha	+?		X	_	_
 
+?	+?		X	_	_
+
+“	+?		X	_	_
+
+	+?		X	_	_
+
 Phenel	+?		X	_	_
 
-má	má(už)+Adv	má	ADV	_	Gloss=už
+:	:+Punct	:	PUNCT	_	Gloss=:
+
+„	+?		X	_	_
+
+Má	má(už)+Adv	má	ADV	_	Gloss=už
 
 čak	+?		X	_	_
 
 pándž	+?		X	_	_
 
 kili	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 majd	+?		X	_	_
 
@@ -406,31 +566,51 @@ man	+?		X	_	_
 
 čhivav	+?		X	_	_
 
-má	má(už)+Adv	má	ADV	_	Gloss=už
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Má	má(už)+Adv	má	ADV	_	Gloss=už
 
 site	+?		X	_	_
 
-hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+“	+?		X	_	_
+
+	+?		X	_	_
+
+Hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
 akkor	+?		X	_	_
 
 pont	+?		X	_	_
 
+[	+?		X	_	_
+
 má	má(už)+Adv	má	ADV	_	Gloss=už
 
 čhiťa	+?		X	_	_
+
+]	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 džanes	+?		X	_	_
 
 kija	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 ko	+?		X	_	_
 
 Poláki	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 and'odona	+?		X	_	_
 
-š	+?		X	_	_
+š…	+?		X	_	_
 
 and'odá	+?		X	_	_
 
@@ -438,11 +618,15 @@ and'odá	+?		X	_	_
 
 géja	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 káj	+?		X	_	_
 
 o	o+Det+Nom+Sg+M	o	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_
 
 Poláki	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 važdár	+?		X	_	_
 
@@ -454,7 +638,11 @@ dine	+?		X	_	_
 
 lóve	+?		X	_	_
 
-važdár	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Važdár	+?		X	_	_
 
 mer	mer(protože)+SConj	mer	SCONJ	_	Gloss=protože
 
@@ -467,11 +655,17 @@ uppe	uppe(nahoru)+Adp	uppe	ADP	_	Gloss=nahoru
 
 phú	+?		X	_	_
 
-šun	šun(slyšet)+V+2sg+Imp	šun	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	Gloss=slyšet
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Šun	šun(slyšet)+V+2sg+Imp	šun	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	Gloss=slyšet
 
 akán	+?		X	_	_
 
 má	má(už)+Adv	má	ADV	_	Gloss=už
+
+:	:+Punct	:	PUNCT	_	Gloss=:
 
 i	i+Det+Nom+Sg+F	i	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_
 
@@ -481,11 +675,17 @@ rodkerel	+?		X	_	_
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 n'alakhel	+?		X	_	_
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 talákozinďa	+?		X	_	_
 
@@ -495,9 +695,15 @@ ole	o+Det+Obl+Sg+M	o	DET	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	_
 
 kovaha	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 ole	o+Det+Obl+Sg+M	o	DET	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	_
 
+…	…+Punct	…	PUNCT	_	Gloss=…
+
 adale	+?		X	_	_
+
+…	…+Punct	…	PUNCT	_	Gloss=…
 
 sar	sar(jak(o))+Adv	sar(jak	ADV	_	Gloss=o)
 
@@ -505,25 +711,47 @@ le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Pr
 
 akharen	+?		X	_	_
 
-má	má(už)+Adv	má	ADV	_	Gloss=už
+?	+?		X	_	_
+
+	+?		X	_	_
+
+Má	má(už)+Adv	má	ADV	_	Gloss=už
 
 ola	+?		X	_	_
 
+…	…+Punct	…	PUNCT	_	Gloss=…
+
 ola	+?		X	_	_
+
+…	…+Punct	…	PUNCT	_	Gloss=…
 
 Puttonkakere	+?		X	_	_
 
 romeha	+?		X	_	_
 
-no	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+No	+?		X	_	_
 
 akkor	+?		X	_	_
 
+:	:+Punct	:	PUNCT	_	Gloss=:
+
+	+?		X	_	_
+
+„	+?		X	_	_
+
 Ďula	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 káj	+?		X	_	_
 
 ssalahi	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 kija	+?		X	_	_
 
@@ -531,7 +759,15 @@ tut	+?		X	_	_
 
 čhiťal	+?		X	_	_
 
-hát	+?		X	_	_
+?	+?		X	_	_
+
+“	+?		X	_	_
+
+–	+?		X	_	_
+
+„	+?		X	_	_
+
+Hát	+?		X	_	_
 
 i	i+Det+Nom+Sg+F	i	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_
 
@@ -539,7 +775,11 @@ gádži	+?		X	_	_
 
 man	+?		X	_	_
 
+…	…+Punct	…	PUNCT	_	Gloss=…
+
 more	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 ni	+?		X	_	_
 
@@ -547,9 +787,13 @@ na	+?		X	_	_
 
 vaker	vaker(povídat)+V+2sg+Imp	vaker	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	Gloss=povídat
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 sar	sar(jak(o))+Adv	sar(jak	ADV	_	Gloss=o)
 
 phírďom	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 site	+?		X	_	_
 
@@ -559,19 +803,41 @@ latar	+?		X	_	_
 
 čhiťom	+?		X	_	_
 
-ola	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Ola	+?		X	_	_
 
 gaddžatar	+?		X	_	_
 
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+“	+?		X	_	_
+
+	+?		X	_	_
+
 Phanla	+?		X	_	_
 
-ári	ári(ven)+Adv	ári	ADV	_	Gloss=ven
+:	:+Punct	:	PUNCT	_	Gloss=:
+
+„	+?		X	_	_
+
+Ári	ári(ven)+Adv	ári	ADV	_	Gloss=ven
 
 man	+?		X	_	_
 
 hizlalinel	+?		X	_	_
 
-his	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+“	+?		X	_	_
+
+–	+?		X	_	_
+
+„	+?		X	_	_
+
+His	+?		X	_	_
 
 ári	ári(ven)+Adv	ári	ADV	_	Gloss=ven
 
@@ -579,9 +845,19 @@ ssal	+?		X	_	_
 
 hízime	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 Ďula	+?		X	_	_
 
-hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
+!	+?		X	_	_
+
+“	+?		X	_	_
+
+–	+?		X	_	_
+
+„	+?		X	_	_
+
+Hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
 dži	+?		X	_	_
 
@@ -599,7 +875,11 @@ te	te(taky)+Part	te	PART	_	Gloss=taky
 
 hizlalinen	+?		X	_	_
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 nek	+?		X	_	_
 
@@ -611,7 +891,11 @@ ando	andi(v/do)+Adp+Det+Nom+Sg+M	andi	DET	Case=Nom|Gender=Masc|Number=Sing|PronT
 
 vodro	+?		X	_	_
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 me	+?		X	_	_
 
@@ -621,15 +905,25 @@ még	+?		X	_	_
 
 man	+?		X	_	_
 
-sar	sar(jak(o))+Adv	sar(jak	ADV	_	Gloss=o)
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+“	+?		X	_	_
+
+	+?		X	_	_
+
+Sar	sar(jak(o))+Adv	sar(jak	ADV	_	Gloss=o)
 
 andi	andi(v/do)+Adp	andi	ADP	_	Gloss=v/do
 
 paramisi	+?		X	_	_
 
+,	,+Punct	,	PUNCT	_	Gloss=,
+
 ola	+?		X	_	_
 
 Piroška	+?		X	_	_
+
+,	,+Punct	,	PUNCT	_	Gloss=,
 
 ój	ó(on/ona)+Pron+Nom+Sg	ó	PRON	Case=Nom|Number=Sing|PronType=Prs	Gloss=on/ona
 
@@ -643,7 +937,11 @@ assi	asso(takový)+Adj+Nom+Sg+F	asso	ADJ	Case=Nom|Gender=Fem|Number=Sing	Gloss=t
 
 kamlahi	+?		X	_	_
 
-sa	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Sa	+?		X	_	_
 
 helešno	+?		X	_	_
 
@@ -651,11 +949,23 @@ rom	rom(rom/muž)+NMb+Nom+Sg	rom	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=rom
 
 ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	Gloss=být
 
-jáj	+?		X	_	_
+.	.+Punct	.	PUNCT	_	Gloss=.
 
-dévla	+?		X	_	_
+	+?		X	_	_
 
-no	+?		X	_	_
+Jáj	+?		X	_	_
+
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Dévla	+?		X	_	_
+
+!	+?		X	_	_
+
+	+?		X	_	_
+
+No	+?		X	_	_
 
 pal	pal(o)+Adp	pal	ADP	_	Gloss=o
 
@@ -663,7 +973,11 @@ odá	odá(ten/to)+Dem	odá	DET	PronType=Dem	Gloss=ten/to
 
 vakerasahi	vaker(povídat)+V+1pl+Impf	vaker	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	Gloss=povídat
 
-taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
+.	.+Punct	.	PUNCT	_	Gloss=.
+
+	+?		X	_	_
+
+Taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
 me	+?		X	_	_
 
@@ -680,4 +994,6 @@ asav	+?		X	_	_
 adale	+?		X	_	_
 
 Rokkantoha	+?		X	_	_
+
+.	.+Punct	.	PUNCT	_	Gloss=.
 

@@ -1,4 +1,4 @@
-Multichar_Symbols +NMa +NMb +NFa +NFb +V +Adj +Pron +PropNa +PropNb +Part +Adp +CConj +SConj +Det +Dem +Cop +Adv +Num +Sg +Pl +M +F +Nom +Gen +Dat +Acc +Voc +Loc +Ins +Obl +Dist +1sg +2sg +3sg +1pl +2pl +3pl +Impf +Pst +Pfv +Imp
+Multichar_Symbols +NMa +NMb +NFa +NFb +V +Adj +Pron +PropNa +PropNb +Part +Adp +CConj +SConj +Det +Dem +Cop +Adv +Num +Punct +Sg +Pl +M +F +Nom +Gen +Dat +Acc +Voc +Loc +Ins +Obl +Dist +1sg +2sg +3sg +1pl +2pl +3pl +Impf +Pst +Pfv +Imp
 
 LEXICON Root
 
@@ -15,6 +15,7 @@ Determinant;
 Cop;
 Adv;
 Num;
+Punct;
 
 LEXICON Noun
 
@@ -183,3 +184,16 @@ igen(velmi)+Adv:igen   #;
 LEXICON Num
 
 harminc(třicet)+Num:harminc #;
+
+LEXICON Punct
+
+<".+Punct":"."> #;
+<"…+Punct":"…"> #;
+<"…+Punct":"..."> #;
+<":+Punct":":"> #;
+<",+Punct":","> #;
+<"!+Punct":"!"> #;
+<"?+Punct":"?"> #;
+<"–+Punct":"–"> #;
+<"„+Punct":"„"> #;
+<"“+Punct":"“"> #;
