@@ -1,0 +1,596 @@
+# sent_id = 1-1
+# text = Taj odá vakerlahi.
+1	Taj	_	_	_	_	0	_	_	_
+2	odá	_	_	_	_	0	_	_	_
+3	vakerlahi	_	_	_	_	0	_	_	SpaceAfter=No
+4	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-2
+# text = Taj pal o Ňufo vakerasahi.
+1	Taj	_	_	_	_	0	_	_	_
+2	pal	_	_	_	_	0	_	_	_
+3	o	_	_	_	_	0	_	_	_
+4	Ňufo	_	_	_	_	0	_	_	_
+5	vakerasahi	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-3
+# text = Taj kana ando Orosko ssáhi.
+1	Taj	_	_	_	_	0	_	_	_
+2	kana	_	_	_	_	0	_	_	_
+3	ando	_	_	_	_	0	_	_	_
+4	Orosko	_	_	_	_	0	_	_	_
+5	ssáhi	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-4
+# text = Ssáhi le bari… assi… assi džuvli le ssáhi, piráni.
+1	Ssáhi	_	_	_	_	0	_	_	_
+2	le	_	_	_	_	0	_	_	_
+3	bari	_	_	_	_	0	_	_	SpaceAfter=No
+4	…	_	_	_	_	0	_	_	_
+5	assi	_	_	_	_	0	_	_	SpaceAfter=No
+6	…	_	_	_	_	0	_	_	_
+7	assi	_	_	_	_	0	_	_	_
+8	džuvli	_	_	_	_	0	_	_	_
+9	le	_	_	_	_	0	_	_	_
+10	ssáhi	_	_	_	_	0	_	_	SpaceAfter=No
+11	,	_	_	_	_	0	_	_	_
+12	piráni	_	_	_	_	0	_	_	SpaceAfter=No
+13	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-5
+# text = Ssáhi le piráni, džuvli.
+1	Ssáhi	_	_	_	_	0	_	_	_
+2	le	_	_	_	_	0	_	_	_
+3	piráni	_	_	_	_	0	_	_	SpaceAfter=No
+4	,	_	_	_	_	0	_	_	_
+5	džuvli	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-6
+# text = Asse tisti… tist… – pal ole Ďusiskero dad – tistkiňa ssa, rangi la ssáhi, ando Orosko.
+1	Asse	_	_	_	_	0	_	_	_
+2	tisti	_	_	_	_	0	_	_	SpaceAfter=No
+3	…	_	_	_	_	0	_	_	_
+4	tist	_	_	_	_	0	_	_	SpaceAfter=No
+5	…	_	_	_	_	0	_	_	_
+6	–	_	_	_	_	0	_	_	_
+7	pal	_	_	_	_	0	_	_	_
+8	ole	_	_	_	_	0	_	_	_
+9	Ďusiskero	_	_	_	_	0	_	_	_
+10	dad	_	_	_	_	0	_	_	_
+11	–	_	_	_	_	0	_	_	_
+12	tistkiňa	_	_	_	_	0	_	_	_
+13	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+14	,	_	_	_	_	0	_	_	_
+15	rangi	_	_	_	_	0	_	_	_
+16	la	_	_	_	_	0	_	_	_
+17	ssáhi	_	_	_	_	0	_	_	SpaceAfter=No
+18	,	_	_	_	_	0	_	_	_
+19	ando	_	_	_	_	0	_	_	_
+20	Orosko	_	_	_	_	0	_	_	SpaceAfter=No
+21	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-7
+# text = Baro šil ssa, faďo.
+1	Baro	_	_	_	_	0	_	_	_
+2	šil	_	_	_	_	0	_	_	_
+3	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+4	,	_	_	_	_	0	_	_	_
+5	faďo	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-8
+# text = Odá t’amenge vakerlahi o phuro rom.
+1	Odá	_	_	_	_	0	_	_	_
+2	t	_	_	_	_	0	_	_	SpaceAfter=No
+3	’	_	_	_	_	0	_	_	SpaceAfter=No
+4	amenge	_	_	_	_	0	_	_	_
+5	vakerlahi	_	_	_	_	0	_	_	_
+6	o	_	_	_	_	0	_	_	_
+7	phuro	_	_	_	_	0	_	_	_
+8	rom	_	_	_	_	0	_	_	SpaceAfter=No
+9	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-9
+# text = Taj hoď géle uppe ando... odoj ánde sine ulade, má terďonahi.
+1	Taj	_	_	_	_	0	_	_	_
+2	hoď	_	_	_	_	0	_	_	_
+3	géle	_	_	_	_	0	_	_	_
+4	uppe	_	_	_	_	0	_	_	_
+5	ando	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	SpaceAfter=No
+8	.	_	_	_	_	0	_	_	_
+9	odoj	_	_	_	_	0	_	_	_
+10	ánde	_	_	_	_	0	_	_	_
+11	sine	_	_	_	_	0	_	_	_
+12	ulade	_	_	_	_	0	_	_	SpaceAfter=No
+13	,	_	_	_	_	0	_	_	_
+14	má	_	_	_	_	0	_	_	_
+15	terďonahi	_	_	_	_	0	_	_	SpaceAfter=No
+16	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-10
+# text = Taj ój asso tikno rom ssa, sar mro, o Ďusi.
+1	Taj	_	_	_	_	0	_	_	_
+2	ój	_	_	_	_	0	_	_	_
+3	asso	_	_	_	_	0	_	_	_
+4	tikno	_	_	_	_	0	_	_	_
+5	rom	_	_	_	_	0	_	_	_
+6	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+7	,	_	_	_	_	0	_	_	_
+8	sar	_	_	_	_	0	_	_	_
+9	mro	_	_	_	_	0	_	_	SpaceAfter=No
+10	,	_	_	_	_	0	_	_	_
+11	o	_	_	_	_	0	_	_	_
+12	Ďusi	_	_	_	_	0	_	_	SpaceAfter=No
+13	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-11
+# text = Taj hoď o baro kabáto uppe leste taj faďinlahi.
+1	Taj	_	_	_	_	0	_	_	_
+2	hoď	_	_	_	_	0	_	_	_
+3	o	_	_	_	_	0	_	_	_
+4	baro	_	_	_	_	0	_	_	_
+5	kabáto	_	_	_	_	0	_	_	_
+6	uppe	_	_	_	_	0	_	_	_
+7	leste	_	_	_	_	0	_	_	_
+8	taj	_	_	_	_	0	_	_	_
+9	faďinlahi	_	_	_	_	0	_	_	SpaceAfter=No
+10	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-12
+# text = Taj odí džuvli le ári válostinďa.
+1	Taj	_	_	_	_	0	_	_	_
+2	odí	_	_	_	_	0	_	_	_
+3	džuvli	_	_	_	_	0	_	_	_
+4	le	_	_	_	_	0	_	_	_
+5	ári	_	_	_	_	0	_	_	_
+6	válostinďa	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-13
+# text = Mer igen čišlo ssa, ando háború, taj šajnálinďa le taj i džuvli hoď akharďa le.
+1	Mer	_	_	_	_	0	_	_	_
+2	igen	_	_	_	_	0	_	_	_
+3	čišlo	_	_	_	_	0	_	_	_
+4	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+5	,	_	_	_	_	0	_	_	_
+6	ando	_	_	_	_	0	_	_	_
+7	háború	_	_	_	_	0	_	_	SpaceAfter=No
+8	,	_	_	_	_	0	_	_	_
+9	taj	_	_	_	_	0	_	_	_
+10	šajnálinďa	_	_	_	_	0	_	_	_
+11	le	_	_	_	_	0	_	_	_
+12	taj	_	_	_	_	0	_	_	_
+13	i	_	_	_	_	0	_	_	_
+14	džuvli	_	_	_	_	0	_	_	_
+15	hoď	_	_	_	_	0	_	_	_
+16	akharďa	_	_	_	_	0	_	_	_
+17	le	_	_	_	_	0	_	_	SpaceAfter=No
+18	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-14
+# text = Taj hoď ánde le legeďa ki peste.
+1	Taj	_	_	_	_	0	_	_	_
+2	hoď	_	_	_	_	0	_	_	_
+3	ánde	_	_	_	_	0	_	_	_
+4	le	_	_	_	_	0	_	_	_
+5	legeďa	_	_	_	_	0	_	_	_
+6	ki	_	_	_	_	0	_	_	_
+7	peste	_	_	_	_	0	_	_	SpaceAfter=No
+8	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-15
+# text = Taj hoď thoďa le uppe máža, mírinďa le taj hoď valami n… harminc kila ssa.
+1	Taj	_	_	_	_	0	_	_	_
+2	hoď	_	_	_	_	0	_	_	_
+3	thoďa	_	_	_	_	0	_	_	_
+4	le	_	_	_	_	0	_	_	_
+5	uppe	_	_	_	_	0	_	_	_
+6	máža	_	_	_	_	0	_	_	SpaceAfter=No
+7	,	_	_	_	_	0	_	_	_
+8	mírinďa	_	_	_	_	0	_	_	_
+9	le	_	_	_	_	0	_	_	_
+10	taj	_	_	_	_	0	_	_	_
+11	hoď	_	_	_	_	0	_	_	_
+12	valami	_	_	_	_	0	_	_	_
+13	n	_	_	_	_	0	_	_	SpaceAfter=No
+14	…	_	_	_	_	0	_	_	_
+15	harminc	_	_	_	_	0	_	_	_
+16	kila	_	_	_	_	0	_	_	_
+17	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+18	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-16
+# text = Šun, […] le.
+1	Šun	_	_	_	_	0	_	_	SpaceAfter=No
+2	,	_	_	_	_	0	_	_	_
+3	[	_	_	_	_	0	_	_	SpaceAfter=No
+4	…	_	_	_	_	0	_	_	SpaceAfter=No
+5	]	_	_	_	_	0	_	_	_
+6	le	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-17
+# text = Akán majd i kova ... i tistiki džuvli phanla: „Akkor addíg adaj oveha, még na hízineha ári, hoď n’oveha ötven kila, paleg šaj manca paššos téle.“
+1	Akán	_	_	_	_	0	_	_	_
+2	majd	_	_	_	_	0	_	_	_
+3	i	_	_	_	_	0	_	_	_
+4	kova	_	_	_	_	0	_	_	_
+5	.	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	_
+8	i	_	_	_	_	0	_	_	_
+9	tistiki	_	_	_	_	0	_	_	_
+10	džuvli	_	_	_	_	0	_	_	_
+11	phanla	_	_	_	_	0	_	_	SpaceAfter=No
+12	:	_	_	_	_	0	_	_	_
+13	„	_	_	_	_	0	_	_	SpaceAfter=No
+14	Akkor	_	_	_	_	0	_	_	_
+15	addíg	_	_	_	_	0	_	_	_
+16	adaj	_	_	_	_	0	_	_	_
+17	oveha	_	_	_	_	0	_	_	SpaceAfter=No
+18	,	_	_	_	_	0	_	_	_
+19	még	_	_	_	_	0	_	_	_
+20	na	_	_	_	_	0	_	_	_
+21	hízineha	_	_	_	_	0	_	_	_
+22	ári	_	_	_	_	0	_	_	SpaceAfter=No
+23	,	_	_	_	_	0	_	_	_
+24	hoď	_	_	_	_	0	_	_	_
+25	n	_	_	_	_	0	_	_	SpaceAfter=No
+26	’	_	_	_	_	0	_	_	SpaceAfter=No
+27	oveha	_	_	_	_	0	_	_	_
+28	ötven	_	_	_	_	0	_	_	_
+29	kila	_	_	_	_	0	_	_	SpaceAfter=No
+30	,	_	_	_	_	0	_	_	_
+31	paleg	_	_	_	_	0	_	_	_
+32	šaj	_	_	_	_	0	_	_	_
+33	manca	_	_	_	_	0	_	_	_
+34	paššos	_	_	_	_	0	_	_	_
+35	téle	_	_	_	_	0	_	_	SpaceAfter=No
+36	.	_	_	_	_	0	_	_	SpaceAfter=No
+37	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-18
+# text = Asso vakerlahi!
+1	Asso	_	_	_	_	0	_	_	_
+2	vakerlahi	_	_	_	_	0	_	_	SpaceAfter=No
+3	!	_	_	_	_	0	_	_	_
+
+# sent_id = 1-19
+# text = Akán má hoď ... hoď ando vodro le paššarlahi taj furt le delahi te han, finomšági.
+1	Akán	_	_	_	_	0	_	_	_
+2	má	_	_	_	_	0	_	_	_
+3	hoď	_	_	_	_	0	_	_	_
+4	.	_	_	_	_	0	_	_	SpaceAfter=No
+5	.	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	_
+7	hoď	_	_	_	_	0	_	_	_
+8	ando	_	_	_	_	0	_	_	_
+9	vodro	_	_	_	_	0	_	_	_
+10	le	_	_	_	_	0	_	_	_
+11	paššarlahi	_	_	_	_	0	_	_	_
+12	taj	_	_	_	_	0	_	_	_
+13	furt	_	_	_	_	0	_	_	_
+14	le	_	_	_	_	0	_	_	_
+15	delahi	_	_	_	_	0	_	_	_
+16	te	_	_	_	_	0	_	_	_
+17	han	_	_	_	_	0	_	_	SpaceAfter=No
+18	,	_	_	_	_	0	_	_	_
+19	finomšági	_	_	_	_	0	_	_	SpaceAfter=No
+20	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-20
+# text = Taj furt le mírinlahi saki masek uppe máža.
+1	Taj	_	_	_	_	0	_	_	_
+2	furt	_	_	_	_	0	_	_	_
+3	le	_	_	_	_	0	_	_	_
+4	mírinlahi	_	_	_	_	0	_	_	_
+5	saki	_	_	_	_	0	_	_	_
+6	masek	_	_	_	_	0	_	_	_
+7	uppe	_	_	_	_	0	_	_	_
+8	máža	_	_	_	_	0	_	_	SpaceAfter=No
+9	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-21
+# text = Hoď taj má čak pándž kili leske ándar hijázinlahi.
+1	Hoď	_	_	_	_	0	_	_	_
+2	taj	_	_	_	_	0	_	_	_
+3	má	_	_	_	_	0	_	_	_
+4	čak	_	_	_	_	0	_	_	_
+5	pándž	_	_	_	_	0	_	_	_
+6	kili	_	_	_	_	0	_	_	_
+7	leske	_	_	_	_	0	_	_	_
+8	ándar	_	_	_	_	0	_	_	_
+9	hijázinlahi	_	_	_	_	0	_	_	SpaceAfter=No
+10	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-22
+# text = „No akán so kerá,“ phanla, „me adala thula džuvjaha?“
+1	„	_	_	_	_	0	_	_	SpaceAfter=No
+2	No	_	_	_	_	0	_	_	_
+3	akán	_	_	_	_	0	_	_	_
+4	so	_	_	_	_	0	_	_	_
+5	kerá	_	_	_	_	0	_	_	SpaceAfter=No
+6	,	_	_	_	_	0	_	_	SpaceAfter=No
+7	“	_	_	_	_	0	_	_	_
+8	phanla	_	_	_	_	0	_	_	SpaceAfter=No
+9	,	_	_	_	_	0	_	_	_
+10	„	_	_	_	_	0	_	_	SpaceAfter=No
+11	me	_	_	_	_	0	_	_	_
+12	adala	_	_	_	_	0	_	_	_
+13	thula	_	_	_	_	0	_	_	_
+14	džuvjaha	_	_	_	_	0	_	_	SpaceAfter=No
+15	?	_	_	_	_	0	_	_	SpaceAfter=No
+16	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-23
+# text = Phenel: „Má čak pándž kili, majd site man čhivav.
+1	Phenel	_	_	_	_	0	_	_	SpaceAfter=No
+2	:	_	_	_	_	0	_	_	_
+3	„	_	_	_	_	0	_	_	SpaceAfter=No
+4	Má	_	_	_	_	0	_	_	_
+5	čak	_	_	_	_	0	_	_	_
+6	pándž	_	_	_	_	0	_	_	_
+7	kili	_	_	_	_	0	_	_	SpaceAfter=No
+8	,	_	_	_	_	0	_	_	_
+9	majd	_	_	_	_	0	_	_	_
+10	site	_	_	_	_	0	_	_	_
+11	man	_	_	_	_	0	_	_	_
+12	čhivav	_	_	_	_	0	_	_	SpaceAfter=No
+13	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-24
+# text = Má site.“
+1	Má	_	_	_	_	0	_	_	_
+2	site	_	_	_	_	0	_	_	SpaceAfter=No
+3	.	_	_	_	_	0	_	_	SpaceAfter=No
+4	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-25
+# text = Hoď akkor pont [má čhiťa], džanes kija, ko Poláki, and’odona š… and’odá šoro géja, káj o Poláki, važdár le na dine lóve.
+1	Hoď	_	_	_	_	0	_	_	_
+2	akkor	_	_	_	_	0	_	_	_
+3	pont	_	_	_	_	0	_	_	_
+4	[	_	_	_	_	0	_	_	SpaceAfter=No
+5	má	_	_	_	_	0	_	_	_
+6	čhiťa	_	_	_	_	0	_	_	SpaceAfter=No
+7	]	_	_	_	_	0	_	_	SpaceAfter=No
+8	,	_	_	_	_	0	_	_	_
+9	džanes	_	_	_	_	0	_	_	_
+10	kija	_	_	_	_	0	_	_	SpaceAfter=No
+11	,	_	_	_	_	0	_	_	_
+12	ko	_	_	_	_	0	_	_	_
+13	Poláki	_	_	_	_	0	_	_	SpaceAfter=No
+14	,	_	_	_	_	0	_	_	_
+15	and	_	_	_	_	0	_	_	SpaceAfter=No
+16	’	_	_	_	_	0	_	_	SpaceAfter=No
+17	odona	_	_	_	_	0	_	_	_
+18	š	_	_	_	_	0	_	_	SpaceAfter=No
+19	…	_	_	_	_	0	_	_	_
+20	and	_	_	_	_	0	_	_	SpaceAfter=No
+21	’	_	_	_	_	0	_	_	SpaceAfter=No
+22	odá	_	_	_	_	0	_	_	_
+23	šoro	_	_	_	_	0	_	_	_
+24	géja	_	_	_	_	0	_	_	SpaceAfter=No
+25	,	_	_	_	_	0	_	_	_
+26	káj	_	_	_	_	0	_	_	_
+27	o	_	_	_	_	0	_	_	_
+28	Poláki	_	_	_	_	0	_	_	SpaceAfter=No
+29	,	_	_	_	_	0	_	_	_
+30	važdár	_	_	_	_	0	_	_	_
+31	le	_	_	_	_	0	_	_	_
+32	na	_	_	_	_	0	_	_	_
+33	dine	_	_	_	_	0	_	_	_
+34	lóve	_	_	_	_	0	_	_	SpaceAfter=No
+35	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-26
+# text = Važdár mer garuvkerlahi pe uppe phú.
+1	Važdár	_	_	_	_	0	_	_	_
+2	mer	_	_	_	_	0	_	_	_
+3	garuvkerlahi	_	_	_	_	0	_	_	_
+4	pe	_	_	_	_	0	_	_	_
+5	uppe	_	_	_	_	0	_	_	_
+6	phú	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-27
+# text = Šun akán má: i gádži rodkerel le, n’alakhel le.
+1	Šun	_	_	_	_	0	_	_	_
+2	akán	_	_	_	_	0	_	_	_
+3	má	_	_	_	_	0	_	_	SpaceAfter=No
+4	:	_	_	_	_	0	_	_	_
+5	i	_	_	_	_	0	_	_	_
+6	gádži	_	_	_	_	0	_	_	_
+7	rodkerel	_	_	_	_	0	_	_	_
+8	le	_	_	_	_	0	_	_	SpaceAfter=No
+9	,	_	_	_	_	0	_	_	_
+10	n	_	_	_	_	0	_	_	SpaceAfter=No
+11	’	_	_	_	_	0	_	_	SpaceAfter=No
+12	alakhel	_	_	_	_	0	_	_	_
+13	le	_	_	_	_	0	_	_	SpaceAfter=No
+14	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-28
+# text = Taj talákozinďa akkor ole kovaha, ole… adale… sar le akharen? má ola… ola… Puttonkakere romeha.
+1	Taj	_	_	_	_	0	_	_	_
+2	talákozinďa	_	_	_	_	0	_	_	_
+3	akkor	_	_	_	_	0	_	_	_
+4	ole	_	_	_	_	0	_	_	_
+5	kovaha	_	_	_	_	0	_	_	SpaceAfter=No
+6	,	_	_	_	_	0	_	_	_
+7	ole	_	_	_	_	0	_	_	SpaceAfter=No
+8	…	_	_	_	_	0	_	_	_
+9	adale	_	_	_	_	0	_	_	SpaceAfter=No
+10	…	_	_	_	_	0	_	_	_
+11	sar	_	_	_	_	0	_	_	_
+12	le	_	_	_	_	0	_	_	_
+13	akharen	_	_	_	_	0	_	_	SpaceAfter=No
+14	?	_	_	_	_	0	_	_	_
+15	má	_	_	_	_	0	_	_	_
+16	ola	_	_	_	_	0	_	_	SpaceAfter=No
+17	…	_	_	_	_	0	_	_	_
+18	ola	_	_	_	_	0	_	_	SpaceAfter=No
+19	…	_	_	_	_	0	_	_	_
+20	Puttonkakere	_	_	_	_	0	_	_	_
+21	romeha	_	_	_	_	0	_	_	SpaceAfter=No
+22	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-29
+# text = No akkor: „Ďula, káj ssalahi, kija tut čhiťal?“ – „Hát i gádži man… more, ni na vaker, sar phírďom, site man latar čhiťom.
+1	No	_	_	_	_	0	_	_	_
+2	akkor	_	_	_	_	0	_	_	SpaceAfter=No
+3	:	_	_	_	_	0	_	_	_
+4	„	_	_	_	_	0	_	_	SpaceAfter=No
+5	Ďula	_	_	_	_	0	_	_	SpaceAfter=No
+6	,	_	_	_	_	0	_	_	_
+7	káj	_	_	_	_	0	_	_	_
+8	ssalahi	_	_	_	_	0	_	_	SpaceAfter=No
+9	,	_	_	_	_	0	_	_	_
+10	kija	_	_	_	_	0	_	_	_
+11	tut	_	_	_	_	0	_	_	_
+12	čhiťal	_	_	_	_	0	_	_	SpaceAfter=No
+13	?	_	_	_	_	0	_	_	SpaceAfter=No
+14	“	_	_	_	_	0	_	_	_
+15	–	_	_	_	_	0	_	_	_
+16	„	_	_	_	_	0	_	_	SpaceAfter=No
+17	Hát	_	_	_	_	0	_	_	_
+18	i	_	_	_	_	0	_	_	_
+19	gádži	_	_	_	_	0	_	_	_
+20	man	_	_	_	_	0	_	_	SpaceAfter=No
+21	…	_	_	_	_	0	_	_	_
+22	more	_	_	_	_	0	_	_	SpaceAfter=No
+23	,	_	_	_	_	0	_	_	_
+24	ni	_	_	_	_	0	_	_	_
+25	na	_	_	_	_	0	_	_	_
+26	vaker	_	_	_	_	0	_	_	SpaceAfter=No
+27	,	_	_	_	_	0	_	_	_
+28	sar	_	_	_	_	0	_	_	_
+29	phírďom	_	_	_	_	0	_	_	SpaceAfter=No
+30	,	_	_	_	_	0	_	_	_
+31	site	_	_	_	_	0	_	_	_
+32	man	_	_	_	_	0	_	_	_
+33	latar	_	_	_	_	0	_	_	_
+34	čhiťom	_	_	_	_	0	_	_	SpaceAfter=No
+35	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-30
+# text = Ola gaddžatar.“
+1	Ola	_	_	_	_	0	_	_	_
+2	gaddžatar	_	_	_	_	0	_	_	SpaceAfter=No
+3	.	_	_	_	_	0	_	_	SpaceAfter=No
+4	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-31
+# text = Phanla: „Ári man hizlalinel.“ – „His ári ssal hízime, Ďula!“ – „Hoď dži ko etven kila man kamja te hizlalinen.
+1	Phanla	_	_	_	_	0	_	_	SpaceAfter=No
+2	:	_	_	_	_	0	_	_	_
+3	„	_	_	_	_	0	_	_	SpaceAfter=No
+4	Ári	_	_	_	_	0	_	_	_
+5	man	_	_	_	_	0	_	_	_
+6	hizlalinel	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	SpaceAfter=No
+8	“	_	_	_	_	0	_	_	_
+9	–	_	_	_	_	0	_	_	_
+10	„	_	_	_	_	0	_	_	SpaceAfter=No
+11	His	_	_	_	_	0	_	_	_
+12	ári	_	_	_	_	0	_	_	_
+13	ssal	_	_	_	_	0	_	_	_
+14	hízime	_	_	_	_	0	_	_	SpaceAfter=No
+15	,	_	_	_	_	0	_	_	_
+16	Ďula	_	_	_	_	0	_	_	SpaceAfter=No
+17	!	_	_	_	_	0	_	_	SpaceAfter=No
+18	“	_	_	_	_	0	_	_	_
+19	–	_	_	_	_	0	_	_	_
+20	„	_	_	_	_	0	_	_	SpaceAfter=No
+21	Hoď	_	_	_	_	0	_	_	_
+22	dži	_	_	_	_	0	_	_	_
+23	ko	_	_	_	_	0	_	_	_
+24	etven	_	_	_	_	0	_	_	_
+25	kila	_	_	_	_	0	_	_	_
+26	man	_	_	_	_	0	_	_	_
+27	kamja	_	_	_	_	0	_	_	_
+28	te	_	_	_	_	0	_	_	_
+29	hizlalinen	_	_	_	_	0	_	_	SpaceAfter=No
+30	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-32
+# text = Taj nek džav laha ando vodro.
+1	Taj	_	_	_	_	0	_	_	_
+2	nek	_	_	_	_	0	_	_	_
+3	džav	_	_	_	_	0	_	_	_
+4	laha	_	_	_	_	0	_	_	_
+5	ando	_	_	_	_	0	_	_	_
+6	vodro	_	_	_	_	0	_	_	SpaceAfter=No
+7	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-33
+# text = Taj me még čhiťom man.“
+1	Taj	_	_	_	_	0	_	_	_
+2	me	_	_	_	_	0	_	_	_
+3	még	_	_	_	_	0	_	_	_
+4	čhiťom	_	_	_	_	0	_	_	_
+5	man	_	_	_	_	0	_	_	SpaceAfter=No
+6	.	_	_	_	_	0	_	_	SpaceAfter=No
+7	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-34
+# text = Sar andi paramisi, ola Piroška, ój mindig o kok assi kamlahi.
+1	Sar	_	_	_	_	0	_	_	_
+2	andi	_	_	_	_	0	_	_	_
+3	paramisi	_	_	_	_	0	_	_	SpaceAfter=No
+4	,	_	_	_	_	0	_	_	_
+5	ola	_	_	_	_	0	_	_	_
+6	Piroška	_	_	_	_	0	_	_	SpaceAfter=No
+7	,	_	_	_	_	0	_	_	_
+8	ój	_	_	_	_	0	_	_	_
+9	mindig	_	_	_	_	0	_	_	_
+10	o	_	_	_	_	0	_	_	_
+11	kok	_	_	_	_	0	_	_	_
+12	assi	_	_	_	_	0	_	_	_
+13	kamlahi	_	_	_	_	0	_	_	SpaceAfter=No
+14	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-35
+# text = Sa helešno rom ssa.
+1	Sa	_	_	_	_	0	_	_	_
+2	helešno	_	_	_	_	0	_	_	_
+3	rom	_	_	_	_	0	_	_	_
+4	ssa	_	_	_	_	0	_	_	SpaceAfter=No
+5	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-36
+# text = Jáj.
+1	Jáj	_	_	_	_	0	_	_	SpaceAfter=No
+2	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-37
+# text = Dévla!
+1	Dévla	_	_	_	_	0	_	_	SpaceAfter=No
+2	!	_	_	_	_	0	_	_	_
+
+# sent_id = 1-38
+# text = No pal odá vakerasahi.
+1	No	_	_	_	_	0	_	_	_
+2	pal	_	_	_	_	0	_	_	_
+3	odá	_	_	_	_	0	_	_	_
+4	vakerasahi	_	_	_	_	0	_	_	SpaceAfter=No
+5	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-39
+# text = Taj me man avka odoj ári asav adale Rokkantoha.
+1	Taj	_	_	_	_	0	_	_	_
+2	me	_	_	_	_	0	_	_	_
+3	man	_	_	_	_	0	_	_	_
+4	avka	_	_	_	_	0	_	_	_
+5	odoj	_	_	_	_	0	_	_	_
+6	ári	_	_	_	_	0	_	_	_
+7	asav	_	_	_	_	0	_	_	_
+8	adale	_	_	_	_	0	_	_	_
+9	Rokkantoha	_	_	_	_	0	_	_	SpaceAfter=No
+10	.	_	_	_	_	0	_	_	_
+
