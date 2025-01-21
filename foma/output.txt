@@ -84,7 +84,7 @@ tisti…	+?		X	_	_
 
 tist…	+?		X	_	_
 
-–	+?		X	_	_
+–	+?	–	PUNCT	_	Gloss=–
 
 pal	pal(o)+Adp	pal	ADP	_	Gloss=o
 
@@ -94,7 +94,7 @@ ole	o+Det+Obl+Sg+M	o	DET	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	_
 
 dad	dad(otec)+NMb+Nom+Sg	dad	NOUN	Case=Nom|Gender=Masc|Number=Sing	Gloss=otec
 
-–	+?		X	_	_
+–	+?	–	PUNCT	_	Gloss=–
 
 tistkiňa	tistkiňa(důstojnice)+NFb+Nom+Sg	tistkiňa	NOUN	Case=Nom|Gender=Fem|Number=Sing	Gloss=důstojnice
 
@@ -343,7 +343,7 @@ ssa	ssa(být)+Cop+3sg+Pst	ssa	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbF
 
 ,	,+Punct	,	PUNCT	_	Gloss=,
 
-[…]	+?		X	_	_
+[…]	+?	[…]	PUNCT	_	Gloss=[…]
 
 le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
@@ -371,7 +371,7 @@ phanla	+?		X	_	_
 
 :	:+Punct	:	PUNCT	_	Gloss=:
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Akkor	+?		X	_	_
 
@@ -415,7 +415,7 @@ téle	+?		X	_	_
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 	+?		X	_	_
 
@@ -423,7 +423,7 @@ Asso	asso(takový)+Adj+Nom+Sg+M	asso	ADJ	Case=Nom|Gender=Masc|Number=Sing	Gloss=
 
 vakerlahi	vaker(povídat)+V+3sg+Impf	vaker	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	Gloss=povídat
 
-!	+?		X	_	_
+!	+?	!	PUNCT	_	Gloss=!
 
 	+?		X	_	_
 
@@ -508,7 +508,7 @@ hijázinlahi	+?		X	_	_
 
 	+?		X	_	_
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 No	+?		X	_	_
 
@@ -520,13 +520,13 @@ kerá	+?		X	_	_
 
 ,	,+Punct	,	PUNCT	_	Gloss=,
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 phanla	+?		X	_	_
 
 ,	,+Punct	,	PUNCT	_	Gloss=,
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 me	+?		X	_	_
 
@@ -536,9 +536,9 @@ thula	+?		X	_	_
 
 džuvjaha	+?		X	_	_
 
-?	+?		X	_	_
+?	+?	?	PUNCT	_	Gloss=?
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 	+?		X	_	_
 
@@ -546,7 +546,7 @@ Phenel	+?		X	_	_
 
 :	:+Punct	:	PUNCT	_	Gloss=:
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Má	má(už)+Adv	má	ADV	_	Gloss=už
 
@@ -576,7 +576,7 @@ site	+?		X	_	_
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 	+?		X	_	_
 
@@ -586,13 +586,13 @@ akkor	+?		X	_	_
 
 pont	+?		X	_	_
 
-[	+?		X	_	_
+[	+?	[	PUNCT	_	Gloss=[
 
 má	má(už)+Adv	má	ADV	_	Gloss=už
 
 čhiťa	+?		X	_	_
 
-]	+?		X	_	_
+]	+?	]	PUNCT	_	Gloss=]
 
 ,	,+Punct	,	PUNCT	_	Gloss=,
 
@@ -711,7 +711,7 @@ le	ó(on/ona)+Pron+Acc+Sg+M	ó	PRON	Case=Acc|Gender=Masc|Number=Sing|PronType=Pr
 
 akharen	+?		X	_	_
 
-?	+?		X	_	_
+?	+?	?	PUNCT	_	Gloss=?
 
 	+?		X	_	_
 
@@ -741,7 +741,7 @@ akkor	+?		X	_	_
 
 	+?		X	_	_
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Ďula	+?		X	_	_
 
@@ -759,13 +759,13 @@ tut	+?		X	_	_
 
 čhiťal	+?		X	_	_
 
-?	+?		X	_	_
+?	+?	?	PUNCT	_	Gloss=?
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
-–	+?		X	_	_
+–	+?	–	PUNCT	_	Gloss=–
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Hát	+?		X	_	_
 
@@ -813,7 +813,7 @@ gaddžatar	+?		X	_	_
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 	+?		X	_	_
 
@@ -821,7 +821,7 @@ Phanla	+?		X	_	_
 
 :	:+Punct	:	PUNCT	_	Gloss=:
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Ári	ári(ven)+Adv	ári	ADV	_	Gloss=ven
 
@@ -831,11 +831,11 @@ hizlalinel	+?		X	_	_
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
-–	+?		X	_	_
+–	+?	–	PUNCT	_	Gloss=–
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 His	+?		X	_	_
 
@@ -849,13 +849,13 @@ hízime	+?		X	_	_
 
 Ďula	+?		X	_	_
 
-!	+?		X	_	_
+!	+?	!	PUNCT	_	Gloss=!
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
-–	+?		X	_	_
+–	+?	–	PUNCT	_	Gloss=–
 
-„	+?		X	_	_
+„	+?	„	PUNCT	_	Gloss=„
 
 Hoď	hoď(že)+SConj	hoď	SCONJ	_	Gloss=že
 
@@ -907,7 +907,7 @@ man	+?		X	_	_
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 
-“	+?		X	_	_
+“	+?	“	PUNCT	_	Gloss=“
 
 	+?		X	_	_
 
@@ -961,7 +961,7 @@ Jáj	+?		X	_	_
 
 Dévla	+?		X	_	_
 
-!	+?		X	_	_
+!	+?	!	PUNCT	_	Gloss=!
 
 	+?		X	_	_
 

@@ -18,6 +18,11 @@ while(<>)
     {
         # Neprázdný řádek obsahuje vstupní slovo, TAB a za ním výstup analýzy (slovníkový řetězec).
         my ($word, $ma) = split(/\t/, $_);
+        # Nedaří se mi přimět Fomu, aby zpracovala některá interpunkční znaménka, tak to zkouším dohnat tady.
+        if($ma eq '+?' && $word =~ m/^\pP+$/)
+        {
+            $ma = $word.'+Punct';
+        }
         # Uvnitř analýzy je nejdřív lemma (nebo kmen, volitelně s překladem v závorce), pak plusem oddělené jednotlivé morfologické rysy.
         my @parts = split(/\+/, $ma);
         my $lemmapart = shift(@parts);

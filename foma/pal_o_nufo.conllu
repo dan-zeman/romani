@@ -58,12 +58,12 @@
 3	…	…	PUNCT	_	_	0	_	_	Gloss=…
 4	tist	_	_	_	_	0	_	_	SpaceAfter=No
 5	…	…	PUNCT	_	_	0	_	_	Gloss=…
-6	–		X	_	_	0	_	_	_
+6	–	–	PUNCT	_	_	0	_	_	Gloss=–
 7	pal	pal	ADP	_	_	0	_	_	Gloss=o
 8	ole	o	DET	_	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	0	_	_	_
 9	Ďusiskero	Ďusi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Gloss=Ďusi
 10	dad	dad	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Gloss=otec
-11	–		X	_	_	0	_	_	_
+11	–	–	PUNCT	_	_	0	_	_	Gloss=–
 12	tistkiňa	tistkiňa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Gloss=důstojnice
 13	ssa	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	Gloss=být|SpaceAfter=No
 14	,	,	PUNCT	_	_	0	_	_	Gloss=,
@@ -211,9 +211,9 @@
 # text = Šun, […] le.
 1	Šun	šun	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	_	_	Gloss=slyšet|SpaceAfter=No
 2	,	,	PUNCT	_	_	0	_	_	Gloss=,
-3	[		X	_	_	0	_	_	SpaceAfter=No
+3	[	[	PUNCT	_	_	0	_	_	Gloss=[|SpaceAfter=No
 4	…	…	PUNCT	_	_	0	_	_	Gloss=…|SpaceAfter=No
-5	]		X	_	_	0	_	_	_
+5	]	]	PUNCT	_	_	0	_	_	Gloss=]
 6	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	_	_	Gloss=on/ona|SpaceAfter=No
 7	.	.	PUNCT	_	_	0	_	_	Gloss=.
 
@@ -232,7 +232,7 @@
 10	džuvli	džuvli	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	Gloss=žena
 11	phanla		X	_	_	0	_	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	0	_	_	Gloss=:
-13	„		X	_	_	0	_	_	SpaceAfter=No
+13	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 14	Akkor		X	_	_	0	_	_	_
 15	addíg		X	_	_	0	_	_	_
 16	adaj		X	_	_	0	_	_	_
@@ -256,13 +256,13 @@
 34	paššos		X	_	_	0	_	_	_
 35	téle		X	_	_	0	_	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	0	_	_	Gloss=.|SpaceAfter=No
-37	“		X	_	_	0	_	_	_
+37	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # sent_id = 1-18
 # text = Asso vakerlahi!
 1	Asso	asso	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Gloss=takový
 2	vakerlahi	vaker	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	_	_	Gloss=povídat|SpaceAfter=No
-3	!		X	_	_	0	_	_	_
+3	!	!	PUNCT	_	_	0	_	_	Gloss=!
 
 # sent_id = 1-19
 # text = Akán má hoď ... hoď ando vodro le paššarlahi taj furt le delahi te han, finomšági.
@@ -314,29 +314,29 @@
 
 # sent_id = 1-22
 # text = „No akán so kerá,“ phanla, „me adala thula džuvjaha?“
-1	„		X	_	_	0	_	_	SpaceAfter=No
+1	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 2	No		X	_	_	0	_	_	_
 3	akán		X	_	_	0	_	_	_
 4	so		X	_	_	0	_	_	_
 5	kerá		X	_	_	0	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	0	_	_	Gloss=,|SpaceAfter=No
-7	“		X	_	_	0	_	_	_
+7	“	“	PUNCT	_	_	0	_	_	Gloss=“
 8	phanla		X	_	_	0	_	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	0	_	_	Gloss=,
-10	„		X	_	_	0	_	_	SpaceAfter=No
+10	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 11	me		X	_	_	0	_	_	_
 12	adala		X	_	_	0	_	_	_
 13	thula		X	_	_	0	_	_	_
 14	džuvjaha		X	_	_	0	_	_	SpaceAfter=No
-15	?		X	_	_	0	_	_	SpaceAfter=No
-16	“		X	_	_	0	_	_	_
+15	?	?	PUNCT	_	_	0	_	_	Gloss=?|SpaceAfter=No
+16	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # newpar
 # sent_id = 1-23
 # text = Phenel: „Má čak pándž kili, majd site man čhivav.
 1	Phenel		X	_	_	0	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	0	_	_	Gloss=:
-3	„		X	_	_	0	_	_	SpaceAfter=No
+3	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 4	Má	má	ADV	_	_	0	_	_	Gloss=už
 5	čak		X	_	_	0	_	_	_
 6	pándž		X	_	_	0	_	_	_
@@ -353,7 +353,7 @@
 1	Má	má	ADV	_	_	0	_	_	Gloss=už
 2	site		X	_	_	0	_	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	0	_	_	Gloss=.|SpaceAfter=No
-4	“		X	_	_	0	_	_	_
+4	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # newpar
 # sent_id = 1-25
@@ -361,10 +361,10 @@
 1	Hoď	hoď	SCONJ	_	_	0	_	_	Gloss=že
 2	akkor		X	_	_	0	_	_	_
 3	pont		X	_	_	0	_	_	_
-4	[		X	_	_	0	_	_	SpaceAfter=No
+4	[	[	PUNCT	_	_	0	_	_	Gloss=[|SpaceAfter=No
 5	má	má	ADV	_	_	0	_	_	Gloss=už
 6	čhiťa		X	_	_	0	_	_	SpaceAfter=No
-7	]		X	_	_	0	_	_	SpaceAfter=No
+7	]	]	PUNCT	_	_	0	_	_	Gloss=]|SpaceAfter=No
 8	,	,	PUNCT	_	_	0	_	_	Gloss=,
 9	džanes		X	_	_	0	_	_	_
 10	kija		X	_	_	0	_	_	SpaceAfter=No
@@ -436,7 +436,7 @@
 11	sar	sar(jak	ADV	_	_	0	_	_	Gloss=o)
 12	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	_	_	Gloss=on/ona
 13	akharen		X	_	_	0	_	_	SpaceAfter=No
-14	?		X	_	_	0	_	_	_
+14	?	?	PUNCT	_	_	0	_	_	Gloss=?
 15	má	má	ADV	_	_	0	_	_	Gloss=už
 16	ola		X	_	_	0	_	_	SpaceAfter=No
 17	…	…	PUNCT	_	_	0	_	_	Gloss=…
@@ -452,7 +452,7 @@
 1	No		X	_	_	0	_	_	_
 2	akkor		X	_	_	0	_	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	0	_	_	Gloss=:
-4	„		X	_	_	0	_	_	SpaceAfter=No
+4	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 5	Ďula		X	_	_	0	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	0	_	_	Gloss=,
 7	káj		X	_	_	0	_	_	_
@@ -461,13 +461,13 @@
 10	kija		X	_	_	0	_	_	_
 11	tut		X	_	_	0	_	_	_
 12	čhiťal		X	_	_	0	_	_	SpaceAfter=No
-13	?		X	_	_	0	_	_	SpaceAfter=No
-14	“		X	_	_	0	_	_	_
+13	?	?	PUNCT	_	_	0	_	_	Gloss=?|SpaceAfter=No
+14	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # sent_id = 1-29b
 # text = – „Hát i gádži man… more, ni na vaker, sar phírďom, site man latar čhiťom.
-1	–		X	_	_	0	_	_	_
-2	„		X	_	_	0	_	_	SpaceAfter=No
+1	–	–	PUNCT	_	_	0	_	_	Gloss=–
+2	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 3	Hát		X	_	_	0	_	_	_
 4	i	i	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	0	_	_	_
 5	gádži		X	_	_	0	_	_	_
@@ -493,36 +493,36 @@
 1	Ola		X	_	_	0	_	_	_
 2	gaddžatar		X	_	_	0	_	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	0	_	_	Gloss=.|SpaceAfter=No
-4	“		X	_	_	0	_	_	_
+4	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # sent_id = 1-31a
 # text = Phanla: „Ári man hizlalinel.“
 1	Phanla		X	_	_	0	_	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	0	_	_	Gloss=:
-3	„		X	_	_	0	_	_	SpaceAfter=No
+3	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 4	Ári	ári	ADV	_	_	0	_	_	Gloss=ven
 5	man		X	_	_	0	_	_	_
 6	hizlalinel		X	_	_	0	_	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	0	_	_	Gloss=.|SpaceAfter=No
-8	“		X	_	_	0	_	_	_
+8	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # sent_id = 1-31b
 # text = – „His ári ssal hízime, Ďula!“
-1	–		X	_	_	0	_	_	_
-2	„		X	_	_	0	_	_	SpaceAfter=No
+1	–	–	PUNCT	_	_	0	_	_	Gloss=–
+2	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 3	His		X	_	_	0	_	_	_
 4	ári	ári	ADV	_	_	0	_	_	Gloss=ven
 5	ssal		X	_	_	0	_	_	_
 6	hízime		X	_	_	0	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	0	_	_	Gloss=,
 8	Ďula		X	_	_	0	_	_	SpaceAfter=No
-9	!		X	_	_	0	_	_	SpaceAfter=No
-10	“		X	_	_	0	_	_	_
+9	!	!	PUNCT	_	_	0	_	_	Gloss=!|SpaceAfter=No
+10	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # sent_id = 1-31c
 # text = – „Hoď dži ko etven kila man kamja te hizlalinen.
-1	–		X	_	_	0	_	_	_
-2	„		X	_	_	0	_	_	SpaceAfter=No
+1	–	–	PUNCT	_	_	0	_	_	Gloss=–
+2	„	„	PUNCT	_	_	0	_	_	Gloss=„|SpaceAfter=No
 3	Hoď	hoď	SCONJ	_	_	0	_	_	Gloss=že
 4	dži		X	_	_	0	_	_	_
 5	ko		X	_	_	0	_	_	_
@@ -552,7 +552,7 @@
 4	čhiťom		X	_	_	0	_	_	_
 5	man		X	_	_	0	_	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	0	_	_	Gloss=.|SpaceAfter=No
-7	“		X	_	_	0	_	_	_
+7	“	“	PUNCT	_	_	0	_	_	Gloss=“
 
 # newpar
 # sent_id = 1-34
@@ -588,7 +588,7 @@
 # sent_id = 1-37
 # text = Dévla!
 1	Dévla		X	_	_	0	_	_	SpaceAfter=No
-2	!		X	_	_	0	_	_	_
+2	!	!	PUNCT	_	_	0	_	_	Gloss=!
 
 # newpar
 # sent_id = 1-38
