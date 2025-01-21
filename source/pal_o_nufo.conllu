@@ -1,3 +1,5 @@
+# newdoc id = pal_o_nufo
+# newpar
 # sent_id = 1-1
 # text = Taj odá vakerlahi.
 1	Taj	_	_	_	_	0	_	_	_
@@ -5,6 +7,7 @@
 3	vakerlahi	_	_	_	_	0	_	_	SpaceAfter=No
 4	.	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-2
 # text = Taj pal o Ňufo vakerasahi.
 1	Taj	_	_	_	_	0	_	_	_
@@ -214,6 +217,7 @@
 6	le	_	_	_	_	0	_	_	SpaceAfter=No
 7	.	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-17
 # text = Akán majd i kova ... i tistiki džuvli phanla: „Akkor addíg adaj oveha, még na hízineha ári, hoď n’oveha ötven kila, paleg šaj manca paššos téle.“
 1	Akán	_	_	_	_	0	_	_	_
@@ -327,6 +331,7 @@
 15	?	_	_	_	_	0	_	_	SpaceAfter=No
 16	“	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-23
 # text = Phenel: „Má čak pándž kili, majd site man čhivav.
 1	Phenel	_	_	_	_	0	_	_	SpaceAfter=No
@@ -350,6 +355,7 @@
 3	.	_	_	_	_	0	_	_	SpaceAfter=No
 4	“	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-25
 # text = Hoď akkor pont [má čhiťa], džanes kija, ko Poláki, and’odona š… and’odá šoro géja, káj o Poláki, važdár le na dine lóve.
 1	Hoď	_	_	_	_	0	_	_	_
@@ -440,8 +446,9 @@
 21	romeha	_	_	_	_	0	_	_	SpaceAfter=No
 22	.	_	_	_	_	0	_	_	_
 
-# sent_id = 1-29
-# text = No akkor: „Ďula, káj ssalahi, kija tut čhiťal?“ – „Hát i gádži man… more, ni na vaker, sar phírďom, site man latar čhiťom.
+# newpar
+# sent_id = 1-29a
+# text = No akkor: „Ďula, káj ssalahi, kija tut čhiťal?“
 1	No	_	_	_	_	0	_	_	_
 2	akkor	_	_	_	_	0	_	_	SpaceAfter=No
 3	:	_	_	_	_	0	_	_	_
@@ -456,27 +463,30 @@
 12	čhiťal	_	_	_	_	0	_	_	SpaceAfter=No
 13	?	_	_	_	_	0	_	_	SpaceAfter=No
 14	“	_	_	_	_	0	_	_	_
-15	–	_	_	_	_	0	_	_	_
-16	„	_	_	_	_	0	_	_	SpaceAfter=No
-17	Hát	_	_	_	_	0	_	_	_
-18	i	_	_	_	_	0	_	_	_
-19	gádži	_	_	_	_	0	_	_	_
-20	man	_	_	_	_	0	_	_	SpaceAfter=No
-21	…	_	_	_	_	0	_	_	_
-22	more	_	_	_	_	0	_	_	SpaceAfter=No
-23	,	_	_	_	_	0	_	_	_
-24	ni	_	_	_	_	0	_	_	_
-25	na	_	_	_	_	0	_	_	_
-26	vaker	_	_	_	_	0	_	_	SpaceAfter=No
-27	,	_	_	_	_	0	_	_	_
-28	sar	_	_	_	_	0	_	_	_
-29	phírďom	_	_	_	_	0	_	_	SpaceAfter=No
-30	,	_	_	_	_	0	_	_	_
-31	site	_	_	_	_	0	_	_	_
-32	man	_	_	_	_	0	_	_	_
-33	latar	_	_	_	_	0	_	_	_
-34	čhiťom	_	_	_	_	0	_	_	SpaceAfter=No
-35	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-29b
+# text = – „Hát i gádži man… more, ni na vaker, sar phírďom, site man latar čhiťom.
+1	–	_	_	_	_	0	_	_	_
+2	„	_	_	_	_	0	_	_	SpaceAfter=No
+3	Hát	_	_	_	_	0	_	_	_
+4	i	_	_	_	_	0	_	_	_
+5	gádži	_	_	_	_	0	_	_	_
+6	man	_	_	_	_	0	_	_	SpaceAfter=No
+7	…	_	_	_	_	0	_	_	_
+8	more	_	_	_	_	0	_	_	SpaceAfter=No
+9	,	_	_	_	_	0	_	_	_
+10	ni	_	_	_	_	0	_	_	_
+11	na	_	_	_	_	0	_	_	_
+12	vaker	_	_	_	_	0	_	_	SpaceAfter=No
+13	,	_	_	_	_	0	_	_	_
+14	sar	_	_	_	_	0	_	_	_
+15	phírďom	_	_	_	_	0	_	_	SpaceAfter=No
+16	,	_	_	_	_	0	_	_	_
+17	site	_	_	_	_	0	_	_	_
+18	man	_	_	_	_	0	_	_	_
+19	latar	_	_	_	_	0	_	_	_
+20	čhiťom	_	_	_	_	0	_	_	SpaceAfter=No
+21	.	_	_	_	_	0	_	_	_
 
 # sent_id = 1-30
 # text = Ola gaddžatar.“
@@ -485,8 +495,8 @@
 3	.	_	_	_	_	0	_	_	SpaceAfter=No
 4	“	_	_	_	_	0	_	_	_
 
-# sent_id = 1-31
-# text = Phanla: „Ári man hizlalinel.“ – „His ári ssal hízime, Ďula!“ – „Hoď dži ko etven kila man kamja te hizlalinen.
+# sent_id = 1-31a
+# text = Phanla: „Ári man hizlalinel.“
 1	Phanla	_	_	_	_	0	_	_	SpaceAfter=No
 2	:	_	_	_	_	0	_	_	_
 3	„	_	_	_	_	0	_	_	SpaceAfter=No
@@ -495,28 +505,34 @@
 6	hizlalinel	_	_	_	_	0	_	_	SpaceAfter=No
 7	.	_	_	_	_	0	_	_	SpaceAfter=No
 8	“	_	_	_	_	0	_	_	_
-9	–	_	_	_	_	0	_	_	_
-10	„	_	_	_	_	0	_	_	SpaceAfter=No
-11	His	_	_	_	_	0	_	_	_
-12	ári	_	_	_	_	0	_	_	_
-13	ssal	_	_	_	_	0	_	_	_
-14	hízime	_	_	_	_	0	_	_	SpaceAfter=No
-15	,	_	_	_	_	0	_	_	_
-16	Ďula	_	_	_	_	0	_	_	SpaceAfter=No
-17	!	_	_	_	_	0	_	_	SpaceAfter=No
-18	“	_	_	_	_	0	_	_	_
-19	–	_	_	_	_	0	_	_	_
-20	„	_	_	_	_	0	_	_	SpaceAfter=No
-21	Hoď	_	_	_	_	0	_	_	_
-22	dži	_	_	_	_	0	_	_	_
-23	ko	_	_	_	_	0	_	_	_
-24	etven	_	_	_	_	0	_	_	_
-25	kila	_	_	_	_	0	_	_	_
-26	man	_	_	_	_	0	_	_	_
-27	kamja	_	_	_	_	0	_	_	_
-28	te	_	_	_	_	0	_	_	_
-29	hizlalinen	_	_	_	_	0	_	_	SpaceAfter=No
-30	.	_	_	_	_	0	_	_	_
+
+# sent_id = 1-31b
+# text = – „His ári ssal hízime, Ďula!“
+1	–	_	_	_	_	0	_	_	_
+2	„	_	_	_	_	0	_	_	SpaceAfter=No
+3	His	_	_	_	_	0	_	_	_
+4	ári	_	_	_	_	0	_	_	_
+5	ssal	_	_	_	_	0	_	_	_
+6	hízime	_	_	_	_	0	_	_	SpaceAfter=No
+7	,	_	_	_	_	0	_	_	_
+8	Ďula	_	_	_	_	0	_	_	SpaceAfter=No
+9	!	_	_	_	_	0	_	_	SpaceAfter=No
+10	“	_	_	_	_	0	_	_	_
+
+# sent_id = 1-31c
+# text = – „Hoď dži ko etven kila man kamja te hizlalinen.
+1	–	_	_	_	_	0	_	_	_
+2	„	_	_	_	_	0	_	_	SpaceAfter=No
+3	Hoď	_	_	_	_	0	_	_	_
+4	dži	_	_	_	_	0	_	_	_
+5	ko	_	_	_	_	0	_	_	_
+6	etven	_	_	_	_	0	_	_	_
+7	kila	_	_	_	_	0	_	_	_
+8	man	_	_	_	_	0	_	_	_
+9	kamja	_	_	_	_	0	_	_	_
+10	te	_	_	_	_	0	_	_	_
+11	hizlalinen	_	_	_	_	0	_	_	SpaceAfter=No
+12	.	_	_	_	_	0	_	_	_
 
 # sent_id = 1-32
 # text = Taj nek džav laha ando vodro.
@@ -538,6 +554,7 @@
 6	.	_	_	_	_	0	_	_	SpaceAfter=No
 7	“	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-34
 # text = Sar andi paramisi, ola Piroška, ój mindig o kok assi kamlahi.
 1	Sar	_	_	_	_	0	_	_	_
@@ -573,6 +590,7 @@
 1	Dévla	_	_	_	_	0	_	_	SpaceAfter=No
 2	!	_	_	_	_	0	_	_	_
 
+# newpar
 # sent_id = 1-38
 # text = No pal odá vakerasahi.
 1	No	_	_	_	_	0	_	_	_
