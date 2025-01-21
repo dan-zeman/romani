@@ -12,3 +12,6 @@ foma -l compile.foma
 
 Use the saved stack to process the input file:
 flookup rmc.bin < input.txt | foma2ud.pl > output.txt
+
+To project the output of Foma back to a CoNLL-U file:
+apply_foma_to_conllu.pl < ../source/pal_o_nufo.conllu > pal_o_nufo.conllu
