@@ -220,7 +220,7 @@ kabáto	kabáto(kabát)+NMa+Nom+Sg	kabáto	NOUN	Case=Nom|Gender=Masc|Number=Sing
 uppe	uppe(nahoru)+Adv	uppe	ADV	_	Gloss=nahoru
 uppe	uppe(nahoru)+Adp	uppe	ADP	_	Gloss=nahoru
 
-leste	ó(on/ona)+Pron+Loc+Sg+M	ó	PRON	Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
+leste	ó(on/ona)+Pron+Loc+Sg+M	ó	PRON	Case=Loc|Gender=Masc|Number=Sing|PronType=Prs	Gloss=on/ona
 
 taj	taj(a)+CConj	taj	CCONJ	_	Gloss=a
 
@@ -296,7 +296,7 @@ legeďa	lege(vést)+V+3sg+Pfv	lege	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=
 
 ki	ki(k/u)+Adp	ki	ADP	_	Gloss=k/u
 
-peste	p(sám)+Pron+Obl+Loc+Sg	p	PRON	Case=Obl|Number=Sing|PronType=Prs	Gloss=sám
+peste	p(sám)+Pron+Obl+Loc+Sg	p	PRON	Case=Loc|Number=Sing|PronType=Prs	Gloss=sám
 
 .	.+Punct	.	PUNCT	_	Gloss=.
 

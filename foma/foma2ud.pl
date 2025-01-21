@@ -116,6 +116,10 @@ while(<>)
             {
                 set_feature(\%feats, 'Aspect', 'Imp');
             }
+            elsif($part eq 'Loc')
+            {
+                set_feature(\%feats, 'Case', 'Loc');
+            }
             elsif($part eq 'M')
             {
                 set_feature(\%feats, 'Gender', 'Masc');

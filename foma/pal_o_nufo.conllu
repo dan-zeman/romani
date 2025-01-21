@@ -139,7 +139,7 @@
 4	baro	baro	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Gloss=velký
 5	kabáto	kabáto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	_	_	Gloss=kabát
 6	uppe	uppe	ADP	_	_	0	_	_	Gloss=nahoru
-7	leste	ó	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	0	_	_	Gloss=on/ona
+7	leste	ó	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Prs	0	_	_	Gloss=on/ona
 8	taj	taj	CCONJ	_	_	0	_	_	Gloss=a
 9	faďinlahi	faďin	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	_	_	Gloss=mrznout|SpaceAfter=No
 10	.	.	PUNCT	_	_	0	_	_	Gloss=.
@@ -183,7 +183,7 @@
 4	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	_	_	Gloss=on/ona
 5	legeďa	lege	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	_	_	Gloss=vést
 6	ki	ki	ADP	_	_	0	_	_	Gloss=k/u
-7	peste	p	PRON	_	Case=Obl|Number=Sing|PronType=Prs	0	_	_	Gloss=sám|SpaceAfter=No
+7	peste	p	PRON	_	Case=Loc|Number=Sing|PronType=Prs	0	_	_	Gloss=sám|SpaceAfter=No
 8	.	.	PUNCT	_	_	0	_	_	Gloss=.
 
 # sent_id = 1-15
