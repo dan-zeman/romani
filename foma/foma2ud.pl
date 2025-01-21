@@ -210,7 +210,7 @@ while(<>)
             }
             elsif($part eq '?')
             {
-                print STDERR ("WARNING: Analyzer does not know word '$word'.\n");
+                print STDERR ("WARNING: Analyzer does not know word '$word'.\n") unless($word eq '');
             }
             else
             {
