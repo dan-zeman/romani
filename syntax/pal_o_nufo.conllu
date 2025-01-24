@@ -2,10 +2,10 @@
 # newpar
 # sent_id = 1-1
 # text = Taj odá vakerlahi.
-1	Taj	taj	CCONJ	_	_	0	root	_	Gloss=a
-2	odá	odá	DET	_	PronType=Dem	0	root	_	Gloss=ten/to
+1	Taj	taj	CCONJ	_	_	3	cc	3:root	Gloss=a
+2	odá	odá	DET	_	PronType=Dem	3	obj	3:root	Gloss=ten/to
 3	vakerlahi	vaker	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=povídat|SpaceAfter=No
-4	.	.	PUNCT	_	_	0	root	_	Gloss=.
+4	.	.	PUNCT	_	_	3	punct	3:root	Gloss=.
 
 # newpar
 # sent_id = 1-2
