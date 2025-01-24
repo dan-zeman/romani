@@ -44,20 +44,20 @@
 
 # sent_id = 1-5
 # text = Ssáhi le piráni, džuvli.
-1	Ssáhi	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=být
-2	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	root	_	Gloss=on/ona
-3	piráni	piráni	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=milenka|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	root	_	Gloss=,
-5	džuvli	džuvli	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Gloss=žena|SpaceAfter=No
-6	.	.	PUNCT	_	_	0	root	_	Gloss=.
+1	Ssáhi	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	2:root	Gloss=být
+2	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	root	:nmod	Gloss=on/ona
+3	piráni	piráni	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	Gloss=milenka|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	Gloss=,
+5	džuvli	džuvli	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	3:nsubj	Gloss=žena|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	2:punct	Gloss=.
 
 # sent_id = 1-6
 # text = Asse tisti… tist… – pal ole Ďusiskero dad – tistkiňa ssa, rangi la ssáhi, ando Orosko.
 1	Asse	asso	ADJ	_	Case=Nom|Number=Plur	0	root	_	Gloss=takový
 2	tisti	_	_	_	_	0	root	_	SpaceAfter=No
-3	…	…	PUNCT	_	_	0	root	_	Gloss=…
+3	…	…	PUNCT	_	_	2	root	2:root	Gloss=…
 4	tist	_	_	_	_	0	root	_	SpaceAfter=No
-5	…	…	PUNCT	_	_	0	root	_	Gloss=…
+5	…	…	PUNCT	_	_	4	root	4:root	Gloss=…
 6	–	–	PUNCT	_	_	0	root	_	Gloss=–
 7	pal	pal	ADP	_	_	0	root	_	Gloss=o
 8	ole	o	DET	_	Case=Obl|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
@@ -77,12 +77,12 @@
 
 # sent_id = 1-7
 # text = Baro šil ssa, faďo.
-1	Baro	baro	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=velký
+1	Baro	baro	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	2:root	Gloss=velký
 2	šil	šil	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=chlad
-3	ssa	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=být|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	root	_	Gloss=,
-5	faďo	faďo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=mráz|SpaceAfter=No
-6	.	.	PUNCT	_	_	0	root	_	Gloss=.
+3	ssa	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	2:root	Gloss=být|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:root	Gloss=,
+5	faďo	faďo	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	2:root	Gloss=mráz|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	2:root	Gloss=.
 
 # sent_id = 1-8
 # text = Odá t’amenge vakerlahi o phuro rom.
@@ -117,32 +117,32 @@
 
 # sent_id = 1-10
 # text = Taj ój asso tikno rom ssa, sar mro, o Ďusi.
-1	Taj	taj	CCONJ	_	_	0	root	_	Gloss=a
-2	ój	ó	PRON	_	Case=Nom|Number=Sing|PronType=Prs	0	root	_	Gloss=on/ona
-3	asso	asso	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=takový
-4	tikno	tikno	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=malý
-5	rom	rom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=rom/muž
-6	ssa	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=být|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	root	_	Gloss=,
-8	sar	sar(jak	ADV	_	_	0	root	_	Gloss=o)
-9	mro	mr	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	0	root	_	Gloss=můj|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	root	_	Gloss=,
-11	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
-12	Ďusi	Ďusi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=Ďusi|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	root	_	Gloss=.
+1	Taj	taj	CCONJ	_	_	5	cc	5:root	Gloss=a
+2	ój	ó	PRON	_	Case=Nom|Number=Sing|PronType=Prs	5	nsubj	5:root	Gloss=on/ona
+3	asso	asso	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	5:root	Gloss=takový
+4	tikno	tikno	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	5:root	Gloss=malý
+5	rom	rom	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	:root	Gloss=rom/muž
+6	ssa	ssa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:root	Gloss=být|SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	12:root	Gloss=,
+8	sar	sar(jak	ADV	_	_	12	advmod:emph	12:root	Gloss=o)
+9	mro	mr	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	12	det	12:root	Gloss=můj|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	12:root	Gloss=,
+11	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	12:root	_
+12	Ďusi	Ďusi	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	dislocated	5:root	Gloss=Ďusi|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	5:root	Gloss=.
 
 # sent_id = 1-11
 # text = Taj hoď o baro kabáto uppe leste taj faďinlahi.
-1	Taj	taj	CCONJ	_	_	0	root	_	Gloss=a
-2	hoď	hoď	SCONJ	_	_	0	root	_	Gloss=že
-3	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
-4	baro	baro	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=velký
-5	kabáto	kabáto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Gloss=kabát
-6	uppe	uppe	ADP	_	_	0	root	_	Gloss=nahoru
+1	Taj	taj	CCONJ	_	_	7	cc	7:root	Gloss=a
+2	hoď	hoď	SCONJ	_	_	7	mark	7:conj	Gloss=že
+3	o	o	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	5:root	_
+4	baro	baro	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	5:root	Gloss=velký
+5	kabáto	kabáto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:root	Gloss=kabát
+6	uppe	uppe	ADP	_	_	7	case	7:root	Gloss=nahoru
 7	leste	ó	PRON	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Prs	0	root	_	Gloss=on/ona
-8	taj	taj	CCONJ	_	_	0	root	_	Gloss=a
-9	faďinlahi	faďin	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=mrznout|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	root	_	Gloss=.
+8	taj	taj	CCONJ	_	_	9	cc	9:root	Gloss=a
+9	faďinlahi	faďin	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	7	conj	7:root	Gloss=mrznout|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	9:root	Gloss=.
 
 # sent_id = 1-12
 # text = Taj odí džuvli le ári válostinďa.
@@ -177,14 +177,14 @@
 
 # sent_id = 1-14
 # text = Taj hoď ánde le legeďa ki peste.
-1	Taj	taj	CCONJ	_	_	0	root	_	Gloss=a
-2	hoď	hoď	SCONJ	_	_	0	root	_	Gloss=že
-3	ánde	ánde	ADV	_	_	0	root	_	Gloss=dovnitř
-4	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	root	_	Gloss=on/ona
+1	Taj	taj	CCONJ	_	_	5	cc	5:root	Gloss=a
+2	hoď	hoď	SCONJ	_	_	5	mark	5:root	Gloss=že
+3	ánde	ánde	ADV	_	_	5	advmod	5:root	Gloss=dovnitř
+4	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	5	obj	5:root	Gloss=on/ona
 5	legeďa	lege	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=vést
-6	ki	ki	ADP	_	_	0	root	_	Gloss=k/u
-7	peste	p	PRON	_	Case=Loc|Number=Sing|PronType=Prs	0	root	_	Gloss=sám|SpaceAfter=No
-8	.	.	PUNCT	_	_	0	root	_	Gloss=.
+6	ki	ki	ADP	_	_	7	case	7:root	Gloss=k/u
+7	peste	p	PRON	_	Case=Loc|Number=Sing|PronType=Prs	5	obl	5:root	Gloss=sám|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	5:root	Gloss=.
 
 # sent_id = 1-15
 # text = Taj hoď thoďa le uppe máža, mírinďa le taj hoď valami n… harminc kila ssa.
@@ -210,12 +210,12 @@
 # sent_id = 1-16
 # text = Šun, […] le.
 1	Šun	šun	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=slyšet|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	root	_	Gloss=,
-3	[	[	PUNCT	_	_	0	root	_	Gloss=[|SpaceAfter=No
-4	…	…	PUNCT	_	_	0	root	_	Gloss=…|SpaceAfter=No
-5	]	]	PUNCT	_	_	0	root	_	Gloss=]
-6	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	0	root	_	Gloss=on/ona|SpaceAfter=No
-7	.	.	PUNCT	_	_	0	root	_	Gloss=.
+2	,	,	PUNCT	_	_	1	punct	1:root	Gloss=,
+3	[	[	PUNCT	_	_	4	punct	4:root	Gloss=[|SpaceAfter=No
+4	…	…	PUNCT	_	_	1	punct	1:root	Gloss=…|SpaceAfter=No
+5	]	]	PUNCT	_	_	4	punct	4:root	Gloss=]
+6	le	ó	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	1	obj	1:root	Gloss=on/ona|SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	1:root	Gloss=.
 
 # newpar
 # sent_id = 1-17

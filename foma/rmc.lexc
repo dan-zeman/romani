@@ -135,7 +135,7 @@ te(taky)+Part:te #;
 LEXICON Adp
 
 pal(o)+Adp:pal #;
-uppe(nahoru)+Adp:uppe #;
+uppe(na)+Adp:uppe #;
 andi(v/do):and IncorpArt;
 ki(k/u)+Adp:ki #;
 
@@ -177,7 +177,7 @@ LEXICON Adv
 uppe(nahoru)+Adv:uppe  #;
 ánde(dovnitř)+Adv:ánde #;
 má(už)+Adv:má          #;
-sar(jak(o))+Adv:sar    #;
+sar(jak/o)+Adv:sar    #;
 ári(ven)+Adv:ári       #;
 igen(velmi)+Adv:igen   #;
 
